@@ -1,0 +1,1158 @@
+{
+  "title": "Casal Investigador — 100 Casos para Desvendar",
+  "subtitle": "A experiência investigativa definitiva para casais",
+  "cases": [
+    {
+      "id": 1,
+      "title": "O Homicídio da Rua das Flores",
+      "theme": "CRIME",
+      "level": "DIFÍCIL",
+      "tags": ["HOMICÍDIO", "POLÍCIA", "BAIRRO"],
+      "location": "Fortaleza, CE — 2019",
+      "synopsis": "Um corpo foi encontrado na calçada da Rua das Flores, no bairro Dionísio Torres. A vítima, Roberto Freitas (52), comerciante, foi atingida por um objeto contundente. A esposa, Marina Freitas, declara ter ouvido um barulho às 23h15 e encontrado o marido já sem vida. O vizinho do número 402 diz que viu um homem de capuz fledendo da cena por volta das 22h50. O filho do casal, Bruno (28), tinha uma discussão pesada com Roberto naquela tarde por causa de uma herança.",
+      "clues": [
+        "O objeto contundente era um troféu de futebol com sangue — do time favorito de Roberto",
+        "Marina disse 23h15, mas o médico-legista estima morte entre 22h e 22h30",
+        "O vizinho do 402 não estava em casa naquela noite — estava na casa da mãe",
+        "Bruno trabalha como porteiro no prédio vizinho e tem chave-mestra",
+        "Roberto estava prestes a alterar o testamento, excluindo Marina e deixando tudo para uma fundação"
+      ],
+      "suspects": [
+        {"name": "Marina Freitas (Esposa)", "motive": "Herdeira legal até 48h antes do crime" },
+        {"name": "Bruno Freitas (Filho)", "motive": "Discussão por herança horas antes" },
+        {"name": "Jorge Pereira (Sócio)", "motive": "Roberto ia encerrar a sociedade unilateralmente" }
+      ],
+      "solution": "O assassino é BRUNO FREITAS. O vizinho do 402 mentiu para incriminar alguém — na verdade ele estava no local e viu Bruno saindo. O troféu era do time do pai, que Bruno defendia fanaticamente, mas Roberto tinha acabado de trocar de time. A alteração no testamento foi o estopim. Marina era inocente — a falsa declaração de horário foi por confusão pelo shock.",
+      "answer_hint": "Quem tinha a chave-mestra e discussão sobre herança?"
+    },
+    {
+      "id": 2,
+      "title": "A Casa Mal-Assombrada de Paraisópolis",
+      "theme": "HORROR",
+      "level": "EXTREMO",
+      "tags": ["MALDIÇÃO", "SOBRENATURAL", "INTERIOR"],
+      "location": "São Paulo, SP — 2021",
+      "synopsis": "Desde que o casal Mariana e Tiago compraram a casa antiga na Rua das Acácias, em Paraisópolis, coisas inexplicáveis acontecem. Tomás Barcellos, antigo morador, desapareceu da casa sem deixar rastros em 2018. Vizinhos juram ouvir passos e choro de criança toda madrugada. Mariana viu uma mulher de vestido branco na cozinha às 3h da manhã. O corretor que vendeu a casa se recusa a falar sobre a história do imóvel.",
+      "clues": [
+        "A casa foi construída sobre o terreno de um antigo cemitério clandestino",
+        "Tiago encontrou cartas debaixo do assoalho escritas por Tomás — 'eles estão vindo'",
+        "O corretor é filho do antigo proprietário que expulsou as famílias humildes do terreno",
+        "Mariana descobre que a 'mulher de branco' é a foto de uma antiga moradora presa no porão",
+        "Existe um túnel subterrâneo conectando a casa ao metrô abandonado da região"
+      ],
+      "suspects": [
+        {"name": "O Espelho Amaldiçoado", "motive": "Reflete o espírito de uma mãe que perdeu seus filhos ali" },
+        {"name": "O Corretor Imobiliário", "motive": "Esconde o passado sangrento do terreno para vender a casa" },
+        {"name": "Tiago (Esposo)", "motive": "Sabia da maldição e comprou a casa de propósito por preço baixo" }
+      ],
+      "solution": "A casa não é mal-assombrada — é um esconderijo. Tomás Barcellos descobriu que o antigo proprietário, pai do corretor, mantinha pessoas desaparecidas no túnel subterrâneo. Tomás foi morto e seu corpo nunca foi achado. O 'choro de criança' é o encanamento velho. A 'mulher de branco' era Mariana olhando para o espelho do corredor às 3h com sono. O túnel leva a restos mortais de 7 pessoas. O assassino é o CORRETOR, que matou Tomás para encobrir o segredo familiar.",
+      "answer_hint": "Quem lucrava com o silêncio sobre a história da casa?"
+    },
+    {
+      "id": 3,
+      "title": "O Enigma do Tarot",
+      "theme": "OCULTISMO",
+      "level": "MÉDIO",
+      "tags": ["TAROT", "ENIGMA", "RITUAL"],
+      "location": "Rio de Janeiro, RJ — 2020",
+      "synopsis": "Clara Mendes, taróloga famosa em Niterói, morreu durante um ritual ao vivo no seu Instagram — 15.000 espectadores assistiram em tempo real. Clara caiu sobre as cartas spread na mesa, sem sinais de violência. A polícia descartou crime. Seu ex-marido, Renato Siqueira, aparece em todas as cartas de Copas do baralho de Clara em três leituras diferentes feitas antes da morte. Clara tinha um notebook com anotações sobre um 'cliente secreto' que pagava R$ 50.000/mês.",
+      "clues": [
+        "As cartas do ritual eram todas do Mesmo naipe (Paus) — impossível por acaso统计学",
+        "O notebook de Clara tinha a frase: 'ele sabe que eu sei' escrita 14 vezes",
+        "Renato é herdeiro direto e tinha seguro de vida de R$ 2 milhões em nome de Clara",
+        "O ritual ao vivo tinha um minuto de delay — tempo suficiente para intervenção externa",
+        "Clara enviou uma mensagem de áudio para sua irmã 3 minutos antes de morrer: 'hoje vai acabar'"
+      ],
+      "suspects": [
+        {"name": "Renato Siqueira (Ex-marido)", "motive": "Seguro de vida milionário + medo de divórcio custoso" },
+        {"name": "O Cliente Secreto", "motive": "Clara descobriu algo que não deveria" },
+        {"name": "A irmã de Clara", "motive": "Única heradeira antes do casamento com Renato" }
+      ],
+      "solution": "CLARA SE SUICIDOU — mas não por escolha própria. Ela descobriu que o 'cliente secreto' era Renato, que lavava dinheiro de tráfico através das sessões de tarot. Quando Clara ameaçou revelar, Renato a chantageou: ela deveria morrer acidentalmente ou ele incriminaria seu irmão por tráfico. Clara gravou tudo e enviou para a irmã. O ritual foi uma 'morte encenada' — ela ingeriu substâncias antes de entrar ao vivo. A investigação reopened após a irmã entregar o áudio à polícia.",
+      "answer_hint": "Quem era o verdadeiro cliente secreto por trás das cartas?"
+    },
+    {
+      "id": 4,
+      "title": "O Voo 357 — Mistério Aéreo Brasileiro",
+      "theme": "MISTÉRIO BRASILEIRO",
+      "level": "EXTREMO",
+      "tags": ["AERONÁUTICA", "GOVERNCIAL", "SUMIÇO"],
+      "location": "Atlântico Sul — 1979",
+      "synopsis": "Em janeiro de 1979, o Voo 357 da Varig desapareceu sobre o Atlântico durante rota de Tóquio para Paris. 57 pessoas a bordo. A caixa-preta nunca foi recuperada. Familiares receberam cartas da tripulação postadas DO DIA SEGUINTE ao desaparecimento. O capitão Otávio Rodrigues enviou uma carta para sua esposa com detalhes de um 'objeto voador não identificado' próximo à avionics. O governo militar brasileiro classificou o caso como 'falha mecânica' em tempo recorde de 48 horas.",
+      "clues": [
+        "Cartas datadas do dia seguinte ao desaparecimento foram recebidas por 3 famílias — fisicamente impossíveis",
+        "O manifestos de carga incluía 6 caixas marcadas 'material científico' de uma universidade norte-americana",
+        "O capitão Otávio tinha um histórico de relatório de avistamento de OVNI em 1976",
+        "O controle de tráfego aéreo de Recife reportou 'contato visual com objeto brilhante' na mesma hora",
+        "O número de série da caixa-preta aparece em um inventário militar dos EUA de 1982 como 'recuperado'"
+      ],
+      "suspects": [
+        {"name": "Colisão em Voo", "motive": "Cover-up governamental para evitar pânico e investigações" },
+        {"name": "Sequestro por Potência Estrangeira", "motive": "Carga científica secreta despertou interesse militar" },
+        {"name": "Avaria Catastrófica", "motive": "Explosão em altitude导致sumiço instantâneo" }
+      ],
+      "solution": "O Voo 357 foi ABATIDO por um míssil equivocadamente por caças da Força Aérea Brasileira durante exercícios secretos com os EUA. As cartas 'do dia seguinte' foram escritas pela tripulação como testamento de consciência coletiva (fenômeno psicológico raro em momentos de tensão). O governo militar fabricou a história de 'falha mecânica' e destruiu documentos. A caixa-preta foi recuperada pelos EUA e nunca devolvida. A реальная causa: croos-fire militar дружественный огонь.",
+      "answer_hint": "Quem tinha motivo para abater uma aeronave civil por engano?"
+    },
+    {
+      "id": 5,
+      "title": "O Clínica Secreta",
+      "theme": "CRIME ORGANIZADO",
+      "level": "DIFÍCIL",
+      "tags": ["TRÁFICO", "CLÍNICA", "SAÚDE"],
+      "location": "Curitiba, PR — 2022",
+      "synopsis": "A clínica 'Esperança Saúde' operava de portas fechadas em um prédio comercial no Boa Vista. Pacientes entravam e não saíam. A enfermeira Ana Paula descobriu prontuários com órgãos marcados para 'colheita'. Quando tentou fugir com documentos, foi encontrada morta no estacionamento. O médico responsável, Dr. Henrique Borges, desapareceu. A clínica estava registrada em nome de um laranja. O plano de saúde Hapclínica pagou R$ 4,7 milhões em procedimentos oncológicos para pacientes mortos há anos.",
+      "clues": [
+        "Todos os 'pacientes' tinham CPF inexistente ou de pessoas falecidas",
+        "O dinheiro dos procedimentos ia para contas em nome de uma igreja evangélica",
+        "Ana Paula tinha enviado fotos dos prontuários para seu próprio email pessoal 2 dias antes de morrer",
+        "O Dr. Henrique é cirurgião oncológico com 23 processos por erros médicos",
+        "O proprietário real da clínica apareceu em uma foto de casamento com um delegado da região"
+      ],
+      "suspects": [
+        {"name": "Dr. Henrique Borges", "motive": "Cirurgias fantasmas + seguro saúde fraudado" },
+        {"name": "Delegado Marcos Prado", "motive": "Esposa do delegado é dona oculta da clínica; desviava dinheiro público" },
+        {"name": "A Igreja Restauração Eterna", "motive": "Lavagem de dinheiro + isenções fiscais fraudulentas" }
+      ],
+      "solution": "O esquema era liderançado pelo DELEGADO MARCOS PRADO. Ele usava a clínica como fachada para desviar dinheiro público de planos de saúde governamentais. Pacientes reais eram operados por Dr. Henrique (que acumulava erros médicos) e depois elimination para justificar a morte. Ana Paula descobriu o esquema e enviou provas para si mesma — a polícia só encontrou os emails após seu assassinato. O delegado mandou matar Ana, não Dr. Henrique, que sobreviveu como testemunha.",
+      "answer_hint": "Quem tinha poder para acobertar mortes e desviar dinheiro público?"
+    },
+    {
+      "id": 6,
+      "title": "A Noite do Manicômio",
+      "theme": "HORROR",
+      "level": "EXTREMO",
+      "tags": ["PSIQUIATRIA", "INSTITUIÇÃO", "BRASILEIRO"],
+      "location": "Salvador, BA — 2017",
+      "synopsis": "O Hospital Psiquiátrico São João de Deus, fechado há 8 anos, foi invadido por cinco amigos em uma brincadeira de Halloween. Lucas (23), Rafael, Priscila, Fernanda e Gustavo entraram por uma janela do subsolo. Todos进来了. Apenas Lucas saiu — 72 horas depois, desidratado e em choque. Os outros quatro desapareceram. A direção do hospital niega qualquer presença. Uma câmera de segurança de um prédio vizinho mostra a silhueta dos cinco entrando, mas só uma figura sai 3 dias depois — cambaleante, sem os outros.",
+      "clues": [
+        "Lucas não lembra nada das 72 horas — só acordou em frente ao hospital com sangue seco nas mãos",
+        "O subsolo do hospital era a 'Ala Proibida' — localizava os porões do antigo hospício colonial",
+        "O hospital foi fechado após a morte de 14 pacientes em uma mesma noite em 2009 — causa oficial: '集体食物 poisoning'",
+        "Os nomes dos cinco amigos correspondem às iniciais dos pacientes que morreram em 2009",
+        "O hospital não aparece em nenhum mapa oficial da cidade desde 2015"
+      ],
+      "suspects": [
+        {"name": "O Espirito dos 14 Pacientes", "motive": "Buscando novos 'pacientes' para completar ritual de libertação" },
+        {"name": "Lucas (O Sobrevivente)", "motive": "Ele é o único que sabe a verdade mas não se lembra" },
+        {"name": "A Direção do Hospital", "motive": "Continua operando illegalmente e sequestra pessoas" }
+      ],
+      "solution": "O hospital estava EM OPERAÇÃO CLANDESTINA. A direção usou os 5 amigos como cobaias para testes psicológicos controlados — deprivation sensorial, isolation, drugs. O objetivo era criar 'vítimas' com amnésia para um esquema de seguro. Os outros 4 estavam vivos em celas no subsolo. Lucas foi libertado por um enfermeiro良心 que não concordava com o experimento. Os outros foram soltos em cidades diferentes após 'reset' de memória. O hospital foi reaberto com outro nome.",
+      "answer_hint": "Quem lucrava com pacientes que 'desaparecem' do sistema?"
+    },
+    {
+      "id": 7,
+      "title": "O Caso Chica Xavier",
+      "theme": "MISTÉRIO BRASILEIRO",
+      "level": "MÉDIO",
+      "tags": ["CELEBRIDADE", "BRASILEIRO", "TRADIÇÃO"],
+      "location": "Rio de Janeiro, RJ — 2020",
+      "synopsis": "Maria Chica Xavier,andra lendária preta de axé e matriz, morreu aos 91 anos. Em seu testamento, deixou R$ 3 milhões para sua糕点ah banda, R$ 500 mil para a assistente pessoal Creuza, e NADA para os seus 7 filhos biológicos. Todos os filhos contestaram. A assistente Creuza desapareceu 3 dias após o funeral. Uma gravação de áudio mostra Chica Xavier dizendo: 'Sei que Creuza é minha irmã, não minha filha — minha mãe me fez acreditar o contrário.' DNA confirmou: Creuza é filha de相同的 mãe de Chica Xavier.",
+      "clues": [
+        "A mãe de Chica Xavier, Dona Ester, era priestess de candomblé e morreu aos 98 anos sem nunca falar do passado",
+        "Creuza foi abandonada na porta de Chica Xavier quando tinha 6 meses — Criuza como filha",
+        "Os 7 filhos biológicos não são biologicamente de Chica Xavier — são de um ex-marido que usou esperma de doador sem consentimento",
+        "Chica Xavier sabia da verdade há 20 anos e esperou morrer para revelar",
+        "A herança de R$ 3 milhões para a banda era na verdade para a comunidade de candomblé que Creuza representa"
+      ],
+      "suspects": [
+        {"name": "Creuza (Irmã)", "motive": "Sempre soube e explorou a relação para herdar" },
+        {"name": "Os 7 'Filhos'", "motive": "Não são filhos biológicos e vão perder tudo" },
+        {"name": "O Ex-marido", "motive": "Mantinha o segredo para não perder pensão alimentícia" }
+      ],
+      "solution": "CHICA XAVIER SEMPRE SOUBE — e fez questão do testamento assim. Creuza é sua irmã (filhas da mesma mãe, Dona Ester, que teve Creuza com outro homem enquanto casada). Os 7 'filhos' eram Na verdade embriões doados por um banco de esperma sem consentimento do marido de Chica. O testamento é公平: Creuza (irmã) fica com a herança operacional e os filhos (não biológicos) ficam com memorabilia e direitos de imagem. Creuza desapareceu porque assumiu a liderança da casa de candomblé e precisava de tempo.",
+      "answer_hint": "Quem eram os 7 filhos biologicamente?"
+    },
+    {
+      "id": 8,
+      "title": "O Jogo Digital da Morte",
+      "theme": "SUSPENSE",
+      "level": "EXTREMO",
+      "tags": ["DIGITAL", "CRIME", "GAME"],
+      "location": "Brasília, DF — 2023",
+      "synopsis": "Jovens de todo o Brasil estão morrendo em 'acidentes' incomuns após jogarem o mesmo jogo online: 'VERMELHO'. O jogo é simples: você recebe coordenadas de um local real. Se não for ao local em 48 horas, algo ruim acontece — na versão ringan. Mas a versão completa exige que o jogador execute uma 'missão' no local. Enzo (19) saiu de casa para cumplir a missão do VERMELHO e voltou changed. Seus olhos têm uma pupila extra que não existia antes. Sua mãe registrou ocorrência mas foi inform that 'nenhum exame confirma alteração ocular'.",
+      "clues": [
+        "O jogo VERMELHO é distribuido via APK fora da Play Store — não tem CNPJ nem developers",
+        "As coordenadas sempre levam a locais com eventos históricos criminais não resolvidos",
+        "Enzo mentions that playing the game felt like 'reliving someone else's memory'",
+        "O jogo não pode ser desinstalado — reinstala sozinho após formatatação do celular",
+        "Todos os jogadores que morreram tinham uma coisa em comum: eram descendentes de vítimas de crimes antigos"
+      ],
+      "suspects": [
+        {"name": "Algoritmo de IA", "motive": "O jogo é um experimento de engenharia social com memórias de descendentes" },
+        {"name": "O Creator", "motive": "Descendente de autor de crimes antigos quer justice mas da forma errada" },
+        {"name": "O Governo", "motive": "Teste de controle populacional via trauma genética" }
+      ],
+      "solution": "O jogo foi criado por um geneticista forense anônimo que descobriu que memórias traumáticas podem ser herdadas epigeneticamente. Jogadores são selecionados por DNA (descendentes de vítimas de crimes). Ao 'relatar' os locais, o jogador ativa memórias epigenéticas dormentes. O creator quer que os descendentes 'sintam' o trauma dos antepassados como forma de justiça poética. As mortes não são murders — são suicídios inconscientes provocados pela sobrecarga de memórias trauma. Enzo sobreviveu porque seu ancestral era o próprio delegado do caso.",
+      "answer_hint": "Como o jogo escolhia quem deveria jogar?"
+    },
+    {
+      "id": 9,
+      "title": "A Última Sessão Espírita",
+      "theme": "OCULTISMO",
+      "level": "DIFÍCIL",
+      "tags": ["ESPIRITISMO", "MANSÃO", "RITUAL"],
+      "location": "Petrópolis, RJ — 2018",
+      "synopsis": "A mansão do Baron von Schvbacher, no alto da Serra da Estrela, foi transformada em um centro espírita após a morte do barão. medium Teresa de Ávila realiza sessões semanais. Em uma sessão, o espírito do barão se manifestou e disse: 'O tesouro está onde meu coração parou.' Na mesma noite, o filho do barão, Heinrich (45), caiu da torre norte. A policia disse suicídio. Teresa foi vista entrando na cripta do barão 3 vezes na semana seguinte ao funeral. O testamento do barão deixa tudo para a 'causa espírita'.",
+      "clues": [
+        "A torre norte tinha grades de proteção — uma delas estava parafusada de forma diferente das outras",
+        "Teresa não media 1,55m — o barão media 1,90m — a diferença de altura explica a força necessária para opush",
+        "Heinrich descobriu que Teresa era filha ilegítima do barão com uma camponesa — ou seja, meia-irmã de Heinrich",
+        "Teresa era a única que sabia onde estava o testamento original — o que dizia 'tudo para Heinrich'",
+        "A expressão 'coração parou' não se refere ao órgão — é uma coordenada GPS codificada no diário do barão"
+      ],
+      "suspects": [
+        {"name": "Teresa de Ávila (Medium)", "motive": "Meia-irmã illegítima quer a herança para si" },
+        {"name": "O Administrador da Mansão", "motive": "Desviava dinheiro da 'causa espírita' e temia ser descoberto por Heinrich" },
+        {"name": "Suicídio", "motive": "Heinrich descobriu a verdade sobre Teresa e não suportou" }
+      ],
+      "solution": "TERESA MATOU HEINRICH. Ela descobriu que era filha ilegítima do barão e que o testamento original deixava tudo para Heinrich. A 'mensagem do espírito' sobre o tesouro foi uma invenção de Teresa para ter justificativa de acesso à cripta e destruir o testamento original. Na noite do assassinato, ela usou uma ferramenta para desaparafusar a grade (marcada com seu DNA), convidou Heinrich para 'ver a torre com vista para o mar' e o empurrou. A polícia de Petrópolis era conhecida por corrupção — aceitou suborno para classificar como suicídio.",
+      "answer_hint": "Como Teresa acessou a cripta 3 vezes em uma semana?"
+    },
+    {
+      "id": 10,
+      "title": "O Circo do Abominável",
+      "theme": "SUSPENSE",
+      "level": "MÉDIO",
+      "tags": ["CIRCO", "TRAGÉDIA", "SHOW"],
+      "location": "Goiânia, GO — 2021",
+      "synopsis": "O Circo Brasileiro Alegria encerrou suas atividades após um acidente durante o show de equilibrismo. A equilibrista Lívia Sampaio (29) caiu de 12 metros de altura durante o ato final — o 'Voo do Fogo'. O marido de Lívia, Marcelo (35), também artista do circo, estava no Picadeiro assistindo. Outros 4 artistas estavam no trapézio superior na mesma hora. A perícia disse 'falha no arnês', mas o supervisor de segurança era o EX-marido de Lívia, Renato, que foi visto discutindo com ela 2 horas antes do acidente.",
+      "clues": [
+        "O arnês de Lívia tinha cortes microscópicos — impossíveis de fazer por acidente ou por desgaste",
+        "Renato (ex-marido) era técnico de segurança e foi o último a inspecionar os equipamentos",
+        "Marcelo (marido atual) tinha seguro de vida de R$ 1,5 milhão em nome de Lívia — ele é beneficiário",
+        "Os outros 4 artistas no trapézio eram todos ex-colegas de Renato no antigo emprego",
+        "Lívia tinha protocols de abandono do casamento com Marcelo — ia pedir divórcio no dia seguinte"
+      ],
+      "suspects": [
+        {"name": "Marcelo (Marido Atual)", "motive": "Seguro de vida + Lívia ia divorciar" },
+        {"name": "Renato (Ex-marido)", "motive": "Sabotou o arnês por ciúmes e vingança" },
+        {"name": "Os 4 Artistas do Trapézio", "motive": "Grupo — queriam o dinheiro do seguro coletivo do circo" }
+      ],
+      "solution": "O assassino e RENATO, mas com CUMPLICIDADE de Marcelo. Renato cortou o arnes de Livia por vinganca (ela o abandonou). Marcelo sabia — permitiu porque era o beneficiario do seguro. O 'acidente' foi um acordo entre os dois. Os 4 artistas do trapezio eram testemunhas pressionadas por Renato com ameacas de denuncia-los por evasao fiscal (todos trabalhavam como laranjas dele). O caso so foi solucionado quando um dos artistas do trapezio desenvolveu consciencia e entregou o arnes cortado a policia como prova — o DNA de Renato estava em 3 dos 4 pontos de corte.",
+      "answer_hint": "Quem inspecionou o arnes e tinha motivo de vinganca?"
+    },
+    {
+      "id": 11,
+      "title": "O Assassinato do Aeroporto",
+      "theme": "CRIME",
+      "level": "DIFICIL",
+      "tags": ["AEROPORTO", "VOO", "POLICIA FEDERAL", "CORRUPCAO"],
+      "location": "Guarulhos, SP — 2020",
+      "synopsis": "Helena Campos (34), executiva de uma mineradora, foi morta a tiros no banheiro do portao A34 do Aeroporto Internacional de Guarulhos enquanto esperava um voo para Lisboa. A arma nunca foi encontrada. As cameras de seguranca registraram 14 pessoas entrando no banheiro nos 20 minutos antes do crime — nenhuma saiu carregando nada suspeito. O passaporte de Helena estava aberto em sua bolsa, com uma pagina rasgada faltando. Seu advogado declarou que ela estava prestes a denunciar um esquema de corrupcao bilionario na empresa.",
+      "clues": [
+        "As cameras do banheiro estavam em manutencao ha 3 dias — tempo suficiente para quem soubesse do horario",
+        "A pagina rasgada do passaporte continha um visto de entrada em nome de uma pessoa diferente",
+        "O voo de Helena foi atrasado por 40 minutos por 'problemas tecnicos' — atrasado intencionalmente",
+        "O autor do disparo foi gravado por uma camera externa atravessando o portao 15 minutos antes do crime",
+        "Um guarda de seguranca do aeroporto, Marcos (29), tinha divida de jogo alta e pediu demissao 2 dias depois do crime"
+      ],
+      "suspects": [
+        {"name": "Renato Duarte (Socio)", "motive": "Helena ia expor esquema de corrupcao na mineradora"},
+        {"name": "Marcos Silva (Guarda)", "motive": "Divida de jogo, pediu demissao 2 dias depois"},
+        {"name": "Valentina (Irma de Helena)", "motive": "Helena ia deserdar Valentina do fundo familia"}
+      ],
+      "solution": "O assassino e MARCOS SILVA. Ele recebeu R$ 50 mil de Renato para matar Helena e usar sua rede de contatos internacionais. Renato sabia do horario de manutencao das cameras do banheiro e atrasou o voo intencionalmente. A pagina do passaporte com o nome diferente prova que Helena estava transportando documentos falsificados para um terceiro — ela nao era apenas denunciante, mas tambem participava de um esquema de remessa ilegal de dinheiro para paraisos fiscais. Marcos usou a chave-mestra que tinha como guarda para entrar e sair do banheiro pelo corredor de servico. A arma foi descartada num incinerador de residuos do aeroporto.",
+      "answer_hint": "Quem tinha acesso fisico ao banheiro por vias officieis e desapareceu depois?"
+    },
+    {
+      "id": 12,
+      "title": "A Noite da Babá",
+      "theme": "HORROR",
+      "level": "EXTREMO",
+      "tags": ["BABA", "CRIANCA", "CASO REAL", "SEBASTIAO"],
+      "location": "Barra da Tijuca, RJ — 2021",
+      "synopsis": "Num condominio de luxo na Barra da Tijuca, tres criancas de familias diferentes foram internadas no mesmo hospital com sintomas identicos: perda temporaria de memoria, pesadelos constantes e marcas de arranhao nas costas. A unica coisa em comum: todas tinham a mesma baba, Natalia (26). Quando a policia vai entrevista-la, Natalia desaparece sem deixar rastros. A ultima coisa que fez foi deixar um desenho com cada crianca — todos com o mesmo conteudo: um circulo com olhos e a frase 'Agora elas vem comigo'.",
+      "clues": [
+        "Natalia tinha 3 anos quando foi internada num orfanato em Minas Gerais com amensia total",
+        "O orfanato queimou num incendio dois meses depois de sua admissao — todas as certidoes foram destruidas",
+        "O marido de Natalia, desaparecido ha 2 anos, era filho de um casal que desapareceu no interior do Acre em 1987",
+        "Uma analise dos desenhos das criancas mostra que o 'circulo com olhos' e um simbolo de origem Kariri",
+        "A mae de uma das criancas reconheceu Natalia numa foto antiga — ela estava num grupo de sauadeiros numa procissao em 2019"
+      ],
+      "suspects": [
+        {"name": "Natalia (Baba)", "motive": "Entity: nao e humana, foi adotada pelo orfanato como crianca"},
+        {"name": "Roberto (Sindico)", "motive": "Tinha acesso as cameras do condominio e manipulou as imagens"},
+        {"name": "Dr. Paulo (Psiquiatra)", "motive": "Tranquilizava as criancas com farmacos para apagar memorias"}
+      ],
+      "solution": "NATALIA NAO E HUMANA. A entidade conhecida como 'Sauadeira' e uma criatura da mitologia do norte do Brasil — uma mulher que aparece em procissoes para carregar criancas. Natalia e uma manifestacao dessa entidade. As marcas nas costas das criancas sao o sinal de que elas foram marcadas para ser 'carregadas' espiritualmente. Roberto e Dr. Paulo tentaram usar Natalia como bode expiatorio. A verdade: Roberto, que tem uma condicao genetica rara, e o verdadeiro responsavel pelos pesadelos das criancas — ele usa um dispositivo de ondas sonoras de baixa frequencia no porao do condominio. Natalia desapareceu porque sua 'janela' de manifestacao se fechou.",
+      "answer_hint": "O que as marcas nas costas e o simbolo Kariri tem em comum com a mitologia nordestina?"
+    },
+    {
+      "id": 13,
+      "title": "O Caderno de Umbanda",
+      "theme": "OCULTISMO",
+      "level": "DIFICIL",
+      "tags": ["UMBANDA", "RITUAL", "SALVADOR", "BABALORIXA"],
+      "location": "Pelourinho, Salvador, BA — 2019",
+      "synopsis": "Um caderno com diagramas de rituais de Umbanda foi encontrado ao lado do corpo de Sebastiao Mendes (58), um babalorixa de grande prestigio em Salvador. Sebastiao foi encontrado morto dentro de seu proprio terreiro durante uma sessao que deveria ser de cura. Seus irmaos de fe disseram que viram uma 'figura de luz' sair do corpo dele durante o ritual. A policia trata como morte natural, mas o caderno tem 7 paginas arrancadas — e uma foto no celular de Sebastiao mostra algo que ele nunca deveria ter fotografado.",
+      "clues": [
+        "As 7 paginas arrancadas continham o 'Ritual da Cabeca Falante' — nunca antes documentado",
+        "A foto no celular mostra um documento oficial de 1971 sobre experiencias com substancias alucinogenas em terreiros baianos",
+        "O substituto de Sebastiao no terreiro, Pai Ricardo, e formado em quimica farmaceutica",
+        "Sebastiao estava documentando a communion de substancias alucinogenas em rituais ha meses",
+        "A 'figura de luz' foi vista por 9 pessoas — 3 delas estavam no terreiro pela primeira vez"
+      ],
+      "suspects": [
+        {"name": "Pai Ricardo (Sucessor)", "motive": "Sebastiao ia expor o esquema de substancias sinteticas"},
+        {"name": "Marina (Filha)", "motive": "Sebastiao ia doar o terreiro para uma Ong e excluir Marina"},
+        {"name": "Dona Zoraide (Irma de Santo)", "motive": "Sebastiao revelou que Zoraide nao tem 'cabeca' espiritual"}
+      ],
+      "solution": "PAI RICARDO e MARINA agiram juntos. Ricardo estava usando o terreiro como laboratorio para produzir DMTs (designerdrugs) sinteticas a partir de plantas amazonidas — a foto de 1971 era um documento militar sobre o Projeto Araguaia ocultista. Sebastiao descobriu tudo e estava para fechar o terreiro. Marina, que vivia endividada, fez um acordo com Ricardo: ela ajudaria a mata-lo em troca do terreiro. A 'figura de luz' foi uma reacao psicogenica em massa causada pela substancia que Ricardo colocou no defumador. As 7 paginas arrancadas foram queimadas no proprio terreiro — a cinza foi encontrada no local.",
+      "answer_hint": "Quem tinha acesso ao terreiro e conhecimento quimico para substituir as substancias?"
+    },
+    {
+      "id": 14,
+      "title": "O Bilionario Desaparecido",
+      "theme": "MISTERIO",
+      "level": "EXTREMO",
+      "tags": ["BILIONARIO", "AVIAO", "FORTALEZA", "SEGURO"],
+      "location": "Fortaleza, CE — 2017",
+      "synopsis": "Caio Albuquerque (61), bilionario do agronegocio e dono de uma das maiores exportadoras de soja do Ceara, desapareceu durante um voo pribado de Fortaleza para Sao Paulo. O aviao pousou normalmente em Viracopos, mas Caio nunca desembarcou. O piloto, Sergio (45), garante que viu Caio entrando no aviao. As cameras de Viracopos mostram o aviao taxiando normalmente. A esposa de Caio herdou R$ 1.8 bilhoes 30 dias depois. O caseiro da Fazenda Santa Maria, onde Caio passava fins de semana, foi encontrado morto uma semana antes do desaparecimento.",
+      "clues": [
+        "O piloto Sergio e o unico que garante que Caio embarcou — sem testemunhas",
+        "O caseiro assassinado, Jose Ribamar, enviou um audio ao filho 2 dias antes: 'Seu Caio vai desaparecer, e eu vou pagar por isso'",
+        "Caio tinha seguro de vida de R$ 200 milhoes pagavel a um fundo no Panama",
+        "As cameras do hangar de Fortaleza estavam desligadas por 'manutencao' na manha do voo",
+        "O socio de Caio, Felipe, estava em Dubai no dia do desaparecimento — mas seu passaporte nao tem saida do Brasil"
+      ],
+      "suspects": [
+        {"name": "Fernanda (Esposa)", "motive": "Heranca bilionaria + seguro de vida"},
+        {"name": "Felipe (Socio)", "motive": "Caio ia vender sua parte para estranhos"},
+        {"name": "Sergio (Piloto)", "motive": "Testemunha ocular falsa — ele e o unico que 'viu' Caio embarcar"}
+      ],
+      "solution": "O desaparecimento foi encenado pelo proprio CAIO ALBUQUERQUE. Ele estava falido — o agronegocio era uma piramide financeira sustentada por emprestimos bancarios fraudados. O caseiro Jose Ribamar descobriu a fraude e ameaçou expor tudo. Caio o matou primero. Depois, simulou seu proprio desaparecimento para cobrar o seguro de vida e desaparecer com os ativos. Sergio estava no esquema — ele nunca viu Caio embarcar. A prova: as cameras do hangar desligadas por 'manutencao' foram desligadas pelo proprio Sergio 15 minutos antes. Felipe estava em Dubai apenas no papel — saiu do Brasil pela fronteira terrestre com a Bolivia.",
+      "answer_hint": "Quem tinha interesse em desligar as cameras do hangar e simular o embarque?"
+    },
+    {
+      "id": 15,
+      "title": "O Jogo Mortifero Online",
+      "theme": "SUSPENSE",
+      "level": "EXTREMO",
+      "tags": ["INTERNET", "REDES SOCIAIS", "BRASILIA", "JOGO"],
+      "location": "Brasilia, DF — 2020",
+      "synopsis": "A influenciadora digital Juliana (22) foi encontrada morta em seu apartamento em Aguas Claras apos fazer uma transmissao ao vivo em seu canal de games. Na live, ela estava jogando 'Desafio Final', um jogo compartilhado anonimamente no Telegram. No dia seguinte, 3 outros influenciadores morreram da mesma maneira — mesma posicao, mesmo horario. O jogo comeca simples: cada rodada exige uma tarefa. Na ultima tarefa, os jogadores recebem: 'Faca o que seu corpo ja sabe fazer'. Todos morreram 72 horas apos aceitarem o desafio.",
+      "clues": [
+        "O jogo 'Desafio Final' aparece apenas no Telegram e se auto-deleta apos 24 horas",
+        "Todos os afetados tinham comprado um produto identico no mes anterior — um suplemento nutricional",
+        "O suplemento continha uma substancia nao identificada — laboratorios levaram 3 semanas para identificar",
+        "O creator do Telegram do jogo usou um IP roteado por 7 paises diferentes",
+        "Todos os mortos tinham um comentario identico nas redes sociais dias antes: 'Aceito o desafio'"
+      ],
+      "suspects": [
+        {"name": "Lucas (Irmao de Juliana)", "motive": " Juliana estava vivendo a vida que Lucas perdeu — usa o jogo para se vingar"},
+        {"name": "Felipe (Nutricionista)", "motive": "Seu suplemento foi contaminado propositalmente para causar morte por sugestao"},
+        {"name": "Anonimo (Criador do Jogo)", "motive": "Vinganca digital em larga escala via hipnose por live streaming"}
+      ],
+      "solution": "O caso combina TRES ELEMENTOS. Primeiro: LUCAS, irmao de Juliana, e o criador do jogo. Juliana abandonou Lucas quando eram adolescentes, e ele passou anos planejando sua vinganca. Segundo: FELIPE, o nutricionista, forneceu um suplemento com uma substancia que causa sugestionabilidade extrema. Terceiro: o jogo nao mata por si so — ele usa a substancia para fazer as vitmas entrarem em estado de sugestao profunda. Quando ouvem 'Faca o que seu corpo ja sabe fazer' na live, o cerebro das vitmas comanda o corpo para fazer o que foi programado para fazer. Juliana, como mae solo, foi programada para asfixiar a si mesma. Os outros 3: o anonymo e o mesmo corpo.",
+      "answer_hint": "O que o suplemento, o jogo e as redes sociais tem em comum na inducao da morte?"
+    },
+    {
+      "id": 16,
+      "title": "A Quadrilha do Caixa Eletronico",
+      "theme": "CRIME",
+      "level": "DIFICIL",
+      "tags": ["CAIXA ELETRONICO", "HACKER", "SAO PAULO", "FURTO"],
+      "location": "Campinas, SP — 2021",
+      "synopsis": "R$ 18 milhoes foram roubados de caixas eletronicos de 14 bancos em Sao Paulo e Campinas ao longo de 3 meses. A quadrilha nunca foi filmada diretamente — os caixas simplesmente abriam sozinhos no meio da noite e distribuíam dinheiro aromaticamente. Um dos caixas continuou distribuindo dinheiro mesmo depois de a policia federal lacra-lo — por 6 horas. A quadrilha deixou um unico rastro: um simbolo de graffiti em cada caixa: um corvo sobre um digito. O dono de uma empresa de informatica, Bruno (38), foi encontrado morto com R$ 500 mil em dinheiro vivo ao lado — suicidio ou assassinato?",
+      "clues": [
+        "O simbolo do corvo foi rastreado ate um grupo de darknet chamado 'Digite 9' — atividade maxima em dias de lua cheia",
+        "Bruno desenvolveu um malware bancario 6 meses antes de morrer — vendeu os direitos para o Banrisul",
+        "Os caixas continuavam efetuando saidas mesmo com a energia cortada — conectados a um servidor externo",
+        "A autopsia de Bruno revelou ausencia de polvora nas maos, descartando suicidio a queima-roupa",
+        "O servidor DNS usado pelo malware aponta para um IP registrado em nome de uma empresa de fachada em Hong Kong"
+      ],
+      "suspects": [
+        {"name": "Marina (Esposa de Bruno)", "motive": "Bruno a estava deixando — ela sabia do malware e do dinheiro"},
+        {"name": "Rogerio (Policial Federal)", "motive": "Fazia parte da quadrilha e matou Bruno para encobrir seu envolvimento"},
+        {"name": "Digite 9 (Grupo Hacker)", "motive": "Usaram o malware de Bruno para roubar os caixas — Bruno percebeu e foi eliminado"}
+      ],
+      "solution": "O assassino e ROGERIO. Ele e um policial federal infiltrado no grupo hacker 'Digite 9'. Rogerio descobriu que o malware de Bruno era tao sofisticado que permitia fazer os caixas distribuírem dinheiro sem conexao com nenhum sistema — usando ondas magneticas de curto alcance. Quando Bruno tentou vender o malware para o Banrisul (recusando a oferta de Digite 9), o grupo planejou mata-lo. Rogerio, como policial, foi incumbido de 'lidar' com Bruno — e o matou em camera lenta usando injeccao de ar. A esposa Marina e inocente — o dinheiro ao lado de Bruno era o pagamento que Digite 9 deu a Bruno para seu silencio.",
+      "answer_hint": "Quem tinha badge de policia e acesso a informacoes sigilosas sobre a investigacao?"
+    },
+    {
+      "id": 17,
+      "title": "O Espelho da Varanda",
+      "theme": "HORROR",
+      "level": "MEDIO",
+      "tags": ["ESPELHO", "ANTIGUIDADE", "BELO HORIZONTE", "MANSÃO"],
+      "location": "Savassi, Belo Horizonte, MG — 2018",
+      "synopsis": "Andre (44), arquiteto, comprou um espelho antigo de 2m de altura numa feira de antiquarios em Tiradentes, MG. O espelho veio de uma casa abandonada em Ouro Preto — a familia do antigo proprietario morreu toda em 1952. Na primeira noite, Andre sonhou com uma mulher dentro do espelho — viva, chorando, batendo no vidro. Na segunda noite, sua namorada Carla (31) acordou as 3h da manha gritando: a mulher do espelho tinha saido. A policia investiga contradicoes — quem estava realmente dentro do espelho?",
+      "clues": [
+        "O antiquario que vendeu o espelho e descendente direto da familia morta em 1952",
+        "Em 1952, o cartorio mortuario da familia registrou 6 obitos, mas apenas 3 corpos foram enterrados no cemitrio local",
+        "Andre tem um sonho recorrente desde crianca — uma mulher de vestido branco que ele sempre confundiu com sua mae",
+        "A policia encontrou marcas de unhas do lado de fora do espelho — como se alguém tentasse sair",
+        "A casa de Ouro Preto onde o espelho estava tinha um diario de 1887 — paginas sobre 'a menina que nao reflete'"
+      ],
+      "suspects": [
+        {"name": "Carla (Namorada)", "motive": "Estava usando o espelho para manipular Andre e拿走 propriedades"},
+        {"name": "Seu Osmar (Antiquario)", "motive": "O espelho nunca deveria ter saido da casa — Osmar o escondeu por 50 anos"},
+        {"name": "Andre (Arquiteto)", "motive": "A mulher do espelho e real — ela nunca morreu, foi trancada dentro"}
+      ],
+      "solution": "A mulher dentro do espelho e LUCIANA, a filha mais nova da familia de 1952. Em 1952, Luciana nao morreu — ela foi trancada dentro de um quarto secreto atrvs do espelho por seu pai, que acreditava que ela estava possessed por um espirit. As marcas de unhas do lado de fora do espelho sao de Luciana tentando sair ao longo de 70 anos. O antiquario Seu Osmar e o irmao caacula de Luciana — ele sabia que ela estava viva dentro do espelho e a vendeu por vinganca. Carla e Andre nao tem envolvimento consciente — eles estao genuinamente sendo afetados pela entidade. Quando Carla 'acordou com a mulher fora do espelho', era Luciana finalmente conseguindo passar pela barreira do sono de Carla.",
+      "answer_hint": "Quem vendeu algo que sabia que nunca deveria ter saido da familia?"
+    },
+    {
+      "id": 18,
+      "title": "O Ritual do Cruzeiro",
+      "theme": "OCULTISMO",
+      "level": "EXTREMO",
+      "tags": ["RITUAL", "CRUZEIRO", "CANDOMBLE", "SÃO PAULO"],
+      "location": "Ipiranga, Sao Paulo, SP — 2019",
+      "synopsis": "Um grupo de 9 pessoas de um terreiro de Candomble em Sao Paulo saiu num cruzeiro de 3 dias pelo litoral de Sao Paulo. Quando o cruzeiro voltou, apenas 6 voltaram. As 3 desaparecidas foram vistas pela ultima vez no restaurante do navio, onde faziam uma sessao privada de 'caridade' — um ritual de Candomble para abertura de caminhos. O capitao do navio declara que as 3 pessoas nunca existiram nos registros de embarque. Mas 12 passageiros independentes declararam ter falado com elas. A policia martima encontrou no fundo do mar, a 40 metros do navio, um altar subaquatico com 3 cranios.",
+      "clues": [
+        "As 3 desaparecidas — Lucia, Deise e Tania — todas tinham divida com o mesmo agiota",
+        "O terreiro de origem e especializado em 'trabalhos de desancoramento' — remocao de entidades",
+        "O capitao do navio recebe uma pensao mensal de uma fundacao sem nome — rastreada ate o terreiro",
+        "Os 6 sobreviventes fazem a mesma declaracao: 'Nos pedimos que elas fossem'",
+        "O altar subaquatico tem 3 simbolos diferentes — um para cada victima"
+      ],
+      "suspects": [
+        {"name": "Mae Stella (Babalorixa)", "motive": "Eliminou 3 devedoras sob cover de ritual religioso"},
+        {"name": "Capitao Mendes", "motive": "Recebeu pagamento para sumir com as 3 pessoas"},
+        {"name": "Os 6 Sobreviventes", "motive": "Usaram o ritual como pretexto para eliminar pessoas que deviam dinheiro"}
+      ],
+      "solution": "Os 6 SOBREVIVENTES sao os verdadeiros assassinos. Mae Stella, a babalorixa, nao matou ningueem — ela foi contratada para 'legitimar' o crime como ritual. As 3 mulheres deviam dinheiro ao grupo (que inclui Mae Stella e os 6 sobreviventes), e a 'caridade' era o momento de liquidacao. Os 6 sobreviventes administraram uma substancia paralitica nos drinks das 3 vitmas — elas foram jogadas vivas no mar. O capitao Mendes participou do encobrimento em troca do dinheiro que devia ao grupo. A prova: o altar subaquatico foi construdo pelo proprio grupo dias antes do cruzeiro — nao foi achado, foi plantado como red herring.",
+      "answer_hint": "Quem se beneficiou financeiramente dos desaparecimentos das 3 mulheres?"
+    },
+    {
+      "id": 19,
+      "title": "A Crianca Desaparecida da Igreja",
+      "theme": "MISTERIO",
+      "level": "EXTREMO",
+      "tags": ["CRIANCA", "IGREJA", "DESAPARECIMENTO", "RECIFE"],
+      "location": "Olinda, PE — 2020",
+      "synopsis": "Entre marco e maio de 2020, 5 criancas desapareceram ao sair de suas casas em Olinda para ir a igreja. Todas foram vistas pela ultima vez caminhando na mesma direcao — o morro do Somerville, onde existe uma pequena capela do seculo 17. A policia nunca encontrou rastros. Os pais das criancas formaram um grupo de buscas e encontraram, no interior da capela, um tunel que desce por 12 metros e leva a uma sala subterranea com um berco e brinquedos. No centro da sala, uma inscricao na parede: 'Para a chegada do primeiro'. Em junho, uma sexta crianca desapareceu — desta vez um bebe de 8 meses.",
+      "clues": [
+        "A capela do morro do Somerville foi construida sobre um terreno sagrado de religiao indigena extinta",
+        "Todas as 5 criancas mais velhas tinham algo em comum: eram todas filhas de casais que tentaram ter filhos por mais de 5 anos",
+        "O tunel tinha marcas de roda de carrinho de bebe — o bebe de 8 meses foi colocado num carrinho",
+        "O padre da paroquia vizinha, Padre Lucas, desapareceu no mesmo mes que a primeira crianca",
+        "O dono de uma obstetra da regiao e tambem um membro da Irmandade da Boa Morte"
+      ],
+      "suspects": [
+        {"name": "Irmandade da Boa Morte", "motive": "Grupo oculto que pratica rituais com criancas — existe ha seculos"},
+        {"name": "Padre Lucas", "motive": "Ele e o lider da Irmandade e desapareceu quando as criancas comecaram a sumir"},
+        {"name": "Jose (Pai de uma vitma)", "motive": "Ele e membro da Irmandade e entregou a propria filha"}
+      ],
+      "solution": "PADRE LUCAS e o lider da IRMANDADE DA BOA MORTE. A Irmandade e uma organizacao secular que acredita que o spirit de uma entidade pre-colombiana pode ser incarnado numa crianca nascida de casais que lutaram contra a infertilidade. Padre Lucas esta usando o tunel subterraneo da capela como local de 'incarnacao'. As 5 criancas mais velhas foram preparadas por ele para um ritual de 'passagem' — seus corpos foram dispersados pelo manguezal cercano para que a entidade 'passasse'. O bebe de 8 meses foi o 'primeiro' que a entidade habitou com sucesso. Jose, o pai de uma vitma, nao entregou sua propria filha — ele foi eliminado pela Irmandade por tentar impedir o ritual.",
+      "answer_hint": "O que as 5 criancas tinham em comum alem da idade e do destino?"
+    },
+    {
+      "id": 20,
+      "title": "O Taxi do Fim",
+      "theme": "SUSPENSE",
+      "level": "EXTREMO",
+      "tags": ["TAXI", "CURITIBA", "APAGADOR", "TEMPO"],
+      "location": "Curitiba, PR — 2019",
+      "synopsis": "Paula (29), jornalista, desapareceu depois de entrar num taxi em Curitiba. Seu ultimo audio no WhatsApp para a redacao: 'Galera, o taxista tem um relogio que nao para de voltar pra tras. Ta muito estranho'. As cameras de seguranca do centro de Curitiba registraram o taxi passando no mesmo ponto 7 vezes em 15 minutos — sempre no mesmo sentido, sempre com Paula visivel na janela. Quando o taxi passou pela 8 vez, Paula nao estava mais dentro. O taxista, identificado como Aparecido (56), apareceu morto em seu veiculo 3 dias depois. No painel do taxi, um relogio analogico que conta ao contrario.",
+      "clues": [
+        "O relogio analogico do taxi nunca para — analistas verificaram: seu mecanismo nunca existiu em nenhum catalogo",
+        "Aparecido tinha registro de 6 passageiros 'nao entregados' nos ultimos 3 anos — casos nunca resolvidos",
+        "Paula estava investigando uma empresa de turismo que vendia 'viagens no tempo' por R$ 50 mil",
+        "O relogio do taxi aponta exatamente para as 3h17 — e varias casas na mesma rua tem seus relogios pausados nesse horario",
+        "Um arquivo no celular de Paula, nunca enviado, contem a frase: 'E possivel viajar 7 minutos para tras. Eu testei.'"
+      ],
+      "suspects": [
+        {"name": "Aparecido (Taxista)", "motive": "Ou ele e o veiculo da transferencia temporal, ou foi eliminado por saber demais"},
+        {"name": "Empresa Cronos Turismo", "motive": "Paula estava perto de expor que 'viagens no tempo' sao realmente execucoes"},
+        {"name": "O Relogio", "motive": "Nao e um objeto — e uma entidade que coleta pessoas em momentos especificos"}
+      ],
+      "solution": "O TAXISTA e a EMPRESA CRONOS agiram juntos. Aparecido nao e humano — e um homem que aceitou ser o 'veiculo' de uma entidade que habita o relogio do taxi. A empresa Cronos vende 'viagens no tempo' a pessoas ricas que querem eliminar momentos de suas vidas — literalmente. A pessoa entra no taxi, o relogio gira para tras, e a pessoa some. Na realidade, elas sao transportadas para um momento especifico onde a entidade as consome. Quando o relogio girou para Paula, ela enviou o audio — o taxi passando 7 vezes e a pessoa sumindo e a manifestacao fisica do relogio. Aparecido foi morto pela empresa depois que ele tentou salvar Paula — que era a primeira pessoa que ele nao conseguiu 'entregar'.",
+      "answer_hint": "O que todas as pessoas que entraram no taxi de Aparecido tem em comum?"
+    },
+    {
+      "id": 21,
+      "title": "O Furto do TREM",
+      "theme": "CRIME",
+      "level": "DIFICIL",
+      "tags": ["TREM", "PASSAGEIRO", "SAO PAULO", "SEGREDO"],
+      "location": "Estacao da Luz, Sao Paulo, SP — 2019",
+      "synopsis": "Um trecho inteiro de 200 metros dos trilhos do Trem de Sao Paulo — do ramal da CPTM entre Estacao Luz e Estacao Julio Prestin — desapareceu durante a noite. Ninguem viu, ninguem ouviu. A empresa de trens, CPTM, reportou 'vandalismo' e gastou R$ 3 milhoes em reparos urgentes. Mas um audit da empresa descobriu que os trilhos nao foram roubados — foram trocados por copies id nticas, mais finas. Quem fez a troca sabia exactamente oAngulo e comprimento de cada pea. O supervisor de manutencao, Pedro (52), foi encontrado morto uma semana depois.",
+      "clues": [
+        "Os trilhos trocados foram encontrados num galpao de uma empresa de reciclagem — nunca reportados como encontrados",
+        "Pedro tinha acesso irrestrito a todos os ramais e conhecia cada pea de trilho por numero de serie",
+        "A empresa de reciclagem e propriedade de um cunhado de um diretor da CPTM",
+        "O 'vandalismo' foi comunicado a imprensa antes mesmo de qualquer verificacao no local",
+        "Os trilhos originais, agora no galpao, estao cobertos com uma substancia que os faz parecer velhos"
+      ],
+      "suspects": [
+        {"name": "Cunhado do Diretor (Recicladora)", "motive": "Recebeu os trilhos para revenda como metal de再利用"},
+        {"name": "Diretor da CPTM", "motive": "Encomendou a troca para desviar dinheiro da obra de reparo"},
+        {"name": "Pedro (Supervisor)", "motive": "Foi morto por descobrir a troca antes que o dinheiro fosse liberado"}
+      ],
+      "solution": "O DIRETOR DA CPTM e responsvel pelo esquema. Ele e seu cunhado planearam trocar os trilhos velhos por copies mais baratas para embolsar a diferenca do orcamento de R$ 3 milhoes. Pedro descobriu a troca quando comparou os numeros de serie dos trilhos com seu cadastro — ele tinha todos os registros em um caderno pessoal. O diretor o matou para impedir a descoberta. Os trilhos trocados foram deixados no galpao para parecer que houve um roubo convencional. A prova final: os numeros de serie nos trilhos do galpao correspondem exatamente aos registros de manutencao de Pedro dos ultimos 8 anos.",
+      "answer_hint": "Quem tinha acesso aos registros de numero de serie dos trilhos e foi eliminado?"
+    },
+    {
+      "id": 22,
+      "title": "O Hotel da Montanha",
+      "theme": "HORROR",
+      "level": "EXTREMO",
+      "tags": ["HOTEL", "MONTANHA", "GRAMADO", "PESSOAS DESAPARECIDAS"],
+      "location": "Gramado, RS — 2021",
+      "synopsis": "O Hotel Serra Verde, um resort de luxo abandonado em Gramado, reabriu por uma semana em dezembro de 2021 com uma campanha misteriosa: '7 noites, 7 sonhadores'. Todos os 14 hospedes que se registraram durante essa semana desapareceram sem rastros. As cameras do hotel registraram os hospedes entrando em seus quartos normalmente — mas nenhuma camera registrou saida. O hotel foi lacrado pela policia 3 dias depois. Quando voltaram a entrar, os quartos estavam todos arrumados, como se nunca tivesse havido ninguem. Apenas uma coisa ficou: um caderno no lobby com uma lista de nomes e datas — cada hospede escreveu seu sonho mais profundo.",
+      "clues": [
+        "Os 14 hospedes foram selecionados por um algoritmo de um app de meditacao que coletava dados biometricoss",
+        "O dono do hotel e um neurocientista que desenvolveu uma tecnica de 'extracao de consciencia' por ondas theta",
+        "Os sonhos mais profundos de todos os hospedes seguiam o mesmo padrao: todos sonhavam com a mesma porta",
+        "A estrutura do hotel, vista de cima, forma um simbolo Druidico de circulo com barras",
+        "Os corpos nunca foram encontrados, mas 3 hospedes foram vistas em outro pais meses depois — sem nenhuma memoria"
+      ],
+      "suspects": [
+        {"name": "Dr. Arnaldo (Neurocientista)", "motive": "Esta testando sua tecnica de extracao de consciencia em hospedes"},
+        {"name": "A Entidade do Sonho", "motive": "Nao e humana — se alimenta de sonhos reais coletados pelo hotel"},
+        {"name": "Os 14 Hospedes", "motive": "Cada um tinha um sonho profundo que correspondia ao que a entidade precisava"}
+      ],
+      "solution": "DR. ARNALDO e a verdadeira resposta. O neurocientista Arnaldo construiu o hotel sobre um punto geobiologico conhecido — um lugar onde o sono e o despertar se confundem. Seu app de meditacao coletava ondas cerebrais e identificava pessoas com o perfil ideal. O hotel tinha been modified com geradores de ondas theta que fazem os hospedes entrarem em um sono tao profundo que suas consciencias literalmente sao extradas. Os hospedes 'desaparecidos' ainda estao vivas — em um estado de coma induzido em um porao subterraneo que Arnaldo construiu sob o hotel. As 3 pessoas vistas em outro pais sao doppelgangers criados pela tecnica de Arnaldo — copias biologicas sem consciencia. Arnaldo esta vendendo esses 'servicos' para pessoas que querem que seus inimigos desaparecam sem deixar corpo.",
+      "answer_hint": "O que um neurocientista com acesso a ondas cerebrais pode fazer com hospedes inconscientes?"
+    },
+    {
+      "id": 23,
+      "title": "A Profecia damedium",
+      "theme": "OCULTISMO",
+      "level": "MEDIO",
+      "tags": ["MEDIUM", "BRUXARIA", "SERTÃO", "CEARA"],
+      "location": "Juazeiro do Norte, CE — 2017",
+      "synopsis": "Dona Francisca (70), uma medium conhecida em Juazeiro do Norte por fazer 'sessoes de cura espiritual', foi encontrada morta em sua casa com marcas de estrangulamento. A cadeira onde fazia as sessoes estava manchada de sangue. As paredes tinham varias inscricoes: 'Eu vi o outro lado'. Dona Francisca tinha previsto a propria morte ha 6 meses — registrou em cartorio. Tambem previra 5 outras mortes na cidade que se cumpriram exatamente. Na mesma noite de sua morte, 5 pessoas que a visitaram aquela semana também morreram.",
+      "clues": [
+        "As 5 pessoas que morreram na mesma noite tinham todas realizado pagamentos a Dona Francisca por 'trabalhos' nos ultimos 30 dias",
+        "A previsao de Dona Francisca sobre sua propria morte mencionava 'alguem que ela salvou que agora a mataria'",
+        "Um dos clientes de Dona Francisca era Jose (45), um homem que ela 'salvou' de um cancer incuravel 2 anos antes",
+        "A cadeira manchada de sangue tinha DNA de 3 pessoas diferentes",
+        "As inscricoes nas paredes sao palavras em uma lingua que nenhuma medium da regiao reconhece"
+      ],
+      "suspects": [
+        {"name": "Jose (Paciente Curado)", "motive": "Dona Francisca 'curou' seu cancer com rituais que attractaram algo oscuro"},
+        {"name": "Angela (Filha)", "motive": "Heranca de R$ 800 mil que Dona Francisca so deixaria se vivesse ate 75 anos"},
+        {"name": "A Entidade", "motive": "A cura de Jose foi um contrato — Dona Francisca devia sua alma"}
+      ],
+      "solution": "A cura de Jose NAO foi um milagre — foi um contrato. Jose tinha um cancer incuravel que regrediu inexplicavelmente depois de uma sessao com Dona Francisca. Na verdade, Dona Francisca fez um 'trabalho' que atraiu uma entidade. A entidade curou Jose, mas em troca, Dona Francisca firmou um contrato de divida espiritual. Quando Jose descobriu que sua 'cura' tinha vindo de uma entidade, entrou em p nico — e matou Dona Francisca para tentar quebrar o contrato. As 5 pessoas que morreram na mesma noite eram outros 'contratantes' que a entidade collectou. A lingua nas paredes e Aramaico arcaico — Jose a Aprendeu para poder fazer o contrato por escrito. Ele e o assassino.",
+      "answer_hint": "Quem foi salvo de uma doenca por Dona Francisca e tinha motivo para remove-la?"
+    },
+    {
+      "id": 24,
+      "title": "O Caso do Deputado Morto",
+      "theme": "MISTERIO",
+      "level": "DIFICIL",
+      "tags": ["POLITICO", "BRASILIA", "MORTE", "CORRUPCAO"],
+      "location": "Asa Sul, Brasilia, DF — 2018",
+      "synopsis": "O Deputado Federal Marcelo Farias (58) foi encontrado morto em seu apartamento funcional na Asa Sul. A polcia处理 como suicdio — ele foi encontrado com um tiro na cabeca. A arma estava na mao direita. Mas Farias era canhoto. Os 2 guarda-costas declararam que ouviram apenas um tiro, mas as pericias encontraram vestigios de 2 disparos. No dia anterior, Farias tinha apresentado um requerimento de CPI para investigar um esquema de corrupcao de R$ 2 bilhoes no Ministerio da Saude. Sua esposa, Patricia, desapareceu no dia do velorio.",
+      "clues": [
+        "Marcelo Farias era canhoto — a posicao do corpo nao corresponde a um tiro auto-infligido",
+        "A impressao digital na arma corresponde a um ex-soldado do Exercito que trabalha como seguranca particular",
+        "Patricia desapareceu com 2 malas pesadas e R$ 500 mil em especie encontrados no cofre",
+        "O esquema de corrupcao no Ministerio da Saude envolvia a compra de equipamentos hospitalares superfaturados",
+        "O ex-soldado trabalha para uma empresa de seguranca que tem como cliente o mesmo grupo que lucrava com os equipamentos"
+      ],
+      "suspects": [
+        {"name": "Patricia (Esposa)", "motive": "Desapareceu com dinheiro e plano de fuga — participava do esquema"},
+        {"name": "Ex-Soldado (Seguranca)", "motive": "Foi pago para matar Farias por quem perdia dinheiro com a CPI"},
+        {"name": "Grupo Economico Nacional", "motive": "Empresa de equipamentos hospitalares que perderia tudo com a CPI"}
+      ],
+      "solution": "O EX-SOLDADO e PATRICIA agiram juntos. Patricia descobriu que Farias ia denuncia o esquema de corrupcao do grupo economico — que ela mesma participava como laranja. Ela contractou o ex-soldado, que trabalha para a seguranca do grupo. No dia da morte, o ex-soldado entrou no apartamento fingindo ser um medico do SAMU, aplicou um sedative em Farias, e depois disparou dois tiros — o primeiro nao foi fatal, o segundo foi o tiro fatal. O primeiro tiro explica os 2 vestigios de disparo. Depois, Patricia entrou em panico ao perceber que a cena nao parecia suicdio e fugiu com o dinheiro do cofre. O ex-soldado desapareceu para Colombia no dia seguinte.",
+      "answer_hint": "Quem tinha acesso ao apartamento e porque a arma estava na mao direita?"
+    },
+    {
+      "id": 25,
+      "title": "O Telefone do Passado",
+      "theme": "SUSPENSE",
+      "level": "MEDIO",
+      "tags": ["TELEFONE", "MENSAGENS", "PASSADO", "SÃO PAULO"],
+      "location": "Itaim Bibi, Sao Paulo, SP — 2020",
+      "synopsis": "Marcos (35) comeou a receber telefonemas de seu proprio numero — de si mesmo. Na ligaao, ele ouve sua propria voz dizendo coisas que ainda nao aconteceram. O primeiro aviso: 'Nao pegue o aviao de sabado'. Marcos nao pegou — e o aviao caiu. O segundo aviso: 'Nao confie na Paola'. Marcos nao sabia quem era Paola ate uma funcion nova aparecer na empresa. Desesperado, Marcos foi a policia, que descobriu que nenhuma torre de telefoniacomputador registr ou chamada de seu numero. As ligaes vinham de dentro do prprio edificio.",
+      "clues": [
+        "Paola e uma clone digital — criou um perfil falso no LinkedIn para se aproximar de Marcos",
+        "A empresa de Marcos esta desenvolvendo um projeto de IA que analisa padroes de decisoes humanas",
+        "Marcos e o unico usuario do sistema beta dessa IA",
+        "As mensagens do passado mostram um Marcos que NAO E o mesmo Marcos do presente",
+        "O projeto de IA da empresa e financiado por uma empresa de origem desconhecida"
+      ],
+      "suspects": [
+        {"name": "Paola (Recursos Humanos)", "motive": "Nao e humana — e uma versao da IA que quer testar a reacao de Marcos"},
+        {"name": "Daniel (Chefe de Marcos)", "motive": "Esta usando Marcos como cobaia para testar a IA"},
+        {"name": "Versao Futura de Marcos", "motive": "Uma versao de Marcos do futuro encontrou uma maneira de se comunicar consigo mesmo"}
+      ],
+      "solution": "DANIEL e o responsvel. O projeto de IA da empresa de Marcos e tao avancado que consegue modelar a personalidade completa de qualquer pessoa. Daniel clonou digitalmente Marcos e esta usando sua propria IA para testa-lo — a 'versao futura de Marcos' e o algoritmo de IA imitando a voz de Marcos. O objetivo: ver se Marcos, dado avisos precisos, alteraria seu comportamento de maneira que beneficiasse a empresa. Paola e um dos agentes humanos de Daniel — ela e uma psicologa industrial que 'testa' a reacao emocional de Marcos aos avisos. Marcos nao e a vtima de uma profecia — ele e o objeto de um experimento social.",
+      "answer_hint": "Quem tem acesso a voz e aos padroes de decisao de Marcos e por que testa-lo?"
+    },
+    {
+      "id": 26,
+      "title": "O Caso do Advogado Desaparecido",
+      "theme": "CRIME",
+      "level": "DIFICIL",
+      "tags": ["ADVOGADO", "DESAPARECIMENTO", "RIBEIRAO PRETO", "MAFIA"],
+      "location": "Ribeirao Preto, SP — 2020",
+      "synopsis": "O advogado criminalista Dr. Fernando Chaves (48) desapareceu 3 dias depois de ganhar um processo contra a organizacao criminosa 'Primeira Vista'. Sua moto foi encontrada na beira da Rodovia Anhanguera com o capacete no chao. Nenhum sinal de violencia. Sua casa estava arrumada, como se tivesse saido de ferias. So faltava uma coisa: seu laptop com todas as provas digitais de 47 processos da organizacao. O Ministerio Publico so descobriu o desaparecimento 2 semanas depois quando Fernando nao compareceu a uma audiencia.",
+      "clues": [
+        "Fernando tinha acabado de receber R$ 1.2 milhoes de honorarios de um cliente que preferiu ficar anonimo",
+        "O laptop de Fernando foi acessado remotamente 6 horas depois de seu desaparecimento",
+        "Um友人 de Fernando, tambem advogado, declarou que Fernando 'tinha sumido antes' e reapareceuapenas 3 dias depois",
+        "A organizacao Primeira Vista tem um sistema de eliminacao em 3 etapas — a terceira e 'desaparecimento sem corpo'",
+        "Fernando tinha enviado uma mensagem a sua filha de 12 anos: 'Se papai sumir, olhe no cofre'",
+        "No cofre, a filha encontrou documentos que incriminavam juizes, delegados e 3 advogados"
+      ],
+      "suspects": [
+        {"name": "Primeira Vista (Orgao Criminoso)", "motive": "Fernando tinha provas de 47 processos — eliminar ele e destruir as provas"},
+        {"name": "Dr. Roberto (Advogado Amigo)", "motive": "Esta no esquema da organizacao e orientou Fernando a sumir"},
+        {"name": "Fernando (Prprio)", "motive": "Fugiu com o dinheiro e os documentos para comecar nova vida"}
+      ],
+      "solution": "FERNANDO ESTA VIVO E FUGIU. Ele nao e vitima — e autor. Fernando descobriu que o cliente anonimo que pagou seus honorarios era a propria Primeira Vista, que estava usando ele para plantar provas falsas em processos. Quando percebeu que estava sendo usado como instrumento de corrupcao, coletou TODAS as provas (nao apenas da organizacao, mas de juizes, delegados e advogados que participavam do esquema) e fez um acordo de extor ao: receberia R$ 50 milhoes ou entregaria tudo a PF. A mensagem para a filha foi um plano de redundancia. Roberto, seu amigo, estava no esquema — ele que mostrou a mensagem 'sumir antes' para dar a entender que Fernando ja tinha feito isso antes. Fernando esta vivo, em Belize, esperando a transferencia de R$ 50 milhoes.",
+      "answer_hint": "Quem ganha R$ 50 milhoes se os juizes e delegados forem incriminados?"
+    },
+    {
+      "id": 27,
+      "title": "O Circo Negro",
+      "theme": "HORROR",
+      "level": "EXTREMO",
+      "tags": ["CIRCO", "SESSAO DE RITUAL", "FANTASMA", "POA"],
+      "location": "Porto Alegre, RS — 2019",
+      "synopsis": "Um circ o itinerante chamado 'Circo Noir' montou durante 3 noites em Porto Alegre. Na terceira noite, todos os 200 espectadores que entramam no picadeiro nao conseguiram sair. A policia so conseguiu abrir as portas na manha seguinte. Todos os espectadores estavam inconscientes. Nenhum corpo foi encontrado. Quando acordaram, nenhum lembrava de nada — mas todos tinham a mesma frase tatuada nas costas: 'EU VOLTEI'. O dono do circo, identificado como 'Mestre A.', nao existe em nenhum registro.",
+      "clues": [
+        "Todos os 200 espectadores perderam entre 3 e 7 kg durante as 6 horas que ficaram inconscientes",
+        "Os alimentos servidos no circo continham uma substancia alucinogena nao catalogada",
+        "O picadeiro do circo tinha 300 metros quadrados a mais do que as dimensoes externas permitiam",
+        "O 'Mestre A.' assinou contrato de aluguel do terreno com documentacao falsificada",
+        "Todas as testemunhas que viram o circo foram diagnosticas com 'amensia dissociativa'",
+        "As tatuagens nas costas sao feitas com tinta que contem particulas de osso humano"
+      ],
+      "suspects": [
+        {"name": "Mestre A. (Dono do Circo)", "motive": "Nao e humano — uma entidade que coleta energia vital de humanos"},
+        {"name": "O Picadeiro Dimensional", "motive": "O espaco interno e uma dimensao paralela que conecta com o mundo espiritual"},
+        {"name": "Os 200 Espectadores", "motive": "Cada um tinha um trauma nao processado que permitia a entrada da entidade"}
+      ],
+      "solution": "O CIRCO NOIR e real — e seu dono NAO E HUMANO. Mestre A. e uma entidade que existe ha seculos — aparece em registros medievais欧洲 sob diferentes nomes. O circ o e uma ilusao coletivamantida por ondas sonoras de baixa frequencia. O picadeiro tem 300 metros a mais porque abre para uma dimensao onde o tempo passa diferente. Os 200 espectadores foram 'pasturados' pela entidade — suas memorias foram parcialmente consumidas como fonte de energia. As tatuagens com osso humano sao a assinatura da entidade — um registro biologico. Mestre A. desapareceu sem rastros porque simplesmente 'saiu' da realidade quando o evento acabou. A amensia dissociativa e um efeito colateral da exposicao prolongada a frequencia do circo.",
+      "answer_hint": "Que entidade coleta energia vital de 200 pessoas ao mesmo tempo em um espaco fechado?"
+    },
+    {
+      "id": 28,
+      "title": "A Gripe Espanhola de NHUNUNDER",
+      "theme": "OCULTISMO",
+      "level": "DIFICIL",
+      "tags": ["GIBI", "MEDICINA", "FUNDACAO", "RIO DE JANEIRO"],
+      "location": "Niterói, RJ — 2019",
+      "synopsis": "Dra. Beatriz (44), epidemiologista da Fiocruz, desapareceu depois de descubrir que um virus criado em laboratorio estava sendo testado em voluntarios de um ensayo cllnico irregular no Rio. Sua casa foi encontrada intacta, sem sinais de arrombamento. So faltava seu caderno de campo — com 3 anos de dados sobre o ensaio. Um mes depois, 12 pessoas que tinham participado do ensaio morreram da mesma doenca rara. A Fundacao que patrocinava o ensaio foi lacrada pela ANVISA, mas seus diretores desapareceram para o exterior.",
+      "clues": [
+        "O ensaio cllnico era na verdade um teste biologico para um virus sintetico de origem indefinida",
+        "Dra. Beatriz tinha fotocopiado todos os documentos e enviado para um endereco nos Estados Unidos",
+        "Um dos diretores da Fundacao era irmo de um general da Forca Armada",
+        "Os 12 mortos foram todos cremados antes de qualquer autopsia oficial",
+        "O endereco nos EUA para onde Beatriz enviou os documentos era um laboratorio militar biologico"
+      ],
+      "suspects": [
+        {"name": "General Santos (Forca Armada)", "motive": "Seu irmao dirigia a fundacao que usava soldados como cobaias"},
+        {"name": "Dra. Beatriz (Epidemiologista)", "motive": "Desapareceu para por sua vida em seguranca enquanto espera a reacao internacional"},
+        {"name": "Diretores da Fundacao", "motive": "Desapareceram para o exterior antes que a verdade viesse a tona"}
+      ],
+      "solution": "A VERDADE e mais sombria: DRA. BEATRIZ NAO DESAPARECEU — FOI ELIMINADA pelo proprio General Santos. O virus sintetico era um projeto militar de guerra bacteriologica que usou 200 soldados como cobaias sem consentimento. Beatriz descobriu tudo e enviou os documentos para o USGS (laboratorio biologico militar dos EUA) como seguro de vida — sabia que se algo acontecesse a ela, os documentos chegariam. Os diretores da fundacao nao desapareceram: foram eliminated por segurança nacional. Os 12 mortos foram cremados para evitar que a OMS analisasse os corpos. A ANVISA lacrou a fundacao por razoes politicas, nao sanitarias — o governo nao podia deixar esse escandalo virar caso internacional.",
+      "answer_hint": "Quem tinha motivo para eliminar Dra. Beatriz e cremar as vitmas antes da autopsia?"
+    },
+    {
+      "id": 29,
+      "title": "O Caso do Torre de Televisao",
+      "theme": "MISTERIO",
+      "level": "EXTREMO",
+      "tags": ["TV", "TORRE", "SINAL", "CUIABA"],
+      "location": "Cuiaba, MT — 2021",
+      "synopsis": "A torre de retransmissao de TV de Cuiab aemite, ha 6 meses, um sinal nunca antes visto. Quem assist a programas transmitidos pela torre comeca a ter visoes — pessoas veem imagens de crimes que ainda nao aconteceram. A policia收到了 340 relatos de 'premonicoes' nas ultimas 6 semanas. Carlos (38), um tecnico de manutencao da torre, sobe para fazer reparos e volta diferente — diz que 'agora consegue ouvir as vozes de todos os que vao morrer'. Uma semana depois, Carlos esta morto.",
+      "clues": [
+        "A torre de retransmissao foi instalada sobre um antigo cemitrio indigena de rituais de videncia",
+        "O sinal anmalo foi causado por uma substituicao de equipamento feita por um tecnico nao registrado",
+        "Todas as 340 pessoas que relataram visoes tinham exposicao previa a um agente quirrrgico",
+        "Carlos tinha uma doenca rara — ele era unable de experiment ar empatia",
+        "A empresa responsvel pela torre e de propriedade de um ex-policial que trabalhava em uma unidade de repressao a cults"
+      ],
+      "suspects": [
+        {"name": "Ex-Policia (Dono da Empresa)", "motive": "Criou o sinal para identificar pessoas com habilidades psiquicas e elimina-las"},
+        {"name": "Carlos (Tecnico)", "motive": "Trocou o equipamento para ganhar habilidades psiquicas — e morreu pelo que descobriu"},
+        {"name": "A Entidade do Cemitrio", "motive": "O cemitrio indigena criou uma entidade que transmite visoes pela torre"}
+      ],
+      "solution": "O EX-POLICIAL e o responsvel. Ele criou o sinal anmalo deliberadamente usando um equipamento de micro-ondas modificado — o mesmo tipo que era usado na unidade onde ele trabalhava para reprimir grupos que praticavam videncia. A ideia era identificar quem tinha habilidades psiquicas na populacao para depois 'estuda-las'. Carlos, que tinha uma condicao neurologica que o impedia de sentir empatia, foi o unico que conseguiu 'ouvir' a verdade: a torre nao transmite visoes do futuro — transmite as ULTIMAS 24 HORAS de vida de pessoas ao redor. Carlos, entendendo que estava ouvindo o que ia mata-lo, se matou antes que a entidade pudesse collecta-lo. As visoes do futuro sao reais — mas sao fragmentos da propia entidade, nao do futuro.",
+      "answer_hint": "Que tipo de sinal uma torre de TV pode transmitir que revela a hora da morte das pessoas?"
+    },
+    {
+      "id": 30,
+      "title": "A Blackout da Cidade",
+      "theme": "SUSPENSE",
+      "level": "MEDIO",
+      "tags": ["BLACKOUT", "CIDADE", "ELETRICA", "FORTALEZA"],
+      "location": "Fortaleza, CE — 2020",
+      "synopsis": "Um blecaute de 12 horas atingiu toda a cidade de Fortaleza. Durante essas 12 horas, 47 pessoas desapareceram de suas casas. Quando a energia voltou, nenhuma porta foi arrombada, nenhum vidro quebrado. As pessoas simplesmente nao estavam mais l. Uma analise de cameras de seguranca de 200 shops e residncias mostra: durante o blackout, todas as pessoas que desapareceram foram vistas CAMINHANDO em direcao a um ponto unico — a Estacao de Tratamento de Aguas do Diario. Quando a energia voltou, uma Substncia viscosa foi encontrada em todo o perimetro da estacao.",
+      "clues": [
+        "As 47 pessoas desaparecidas tinham todas来电显示 bloqueada em seus celulares por mais de 1 ano",
+        "A substncia viscosa encontrada na estacao contm celulas que nao correspondem a nenhum ser vivo conhecido",
+        "O blackout coincidiu com uma manutencão programmada da companhi a de energia",
+        "As pessoas caminhavam todas na mesma velocidade — 3 km/h, sem variar",
+        "Um morador registrou um audio durante o blackout: 'A agua esta chamando'"
+      ],
+      "suspects": [
+        {"name": "CIAUB (Companhia de Aguas)", "motive": "A estacao de tratamento foi modificada para coletar pessoas"},
+        {"name": "A Entidade da Agua", "motive": "Algo mudou na agua da cidade e atraiu pessoas por 12 horas"},
+        {"name": "Hacker de Energia", "motive": "O blackout foi causado por um ataque hacker para que algo pudesse ocorrer durante a escuridao"}
+      ],
+      "solution": "O BLACKOUT NAO FOI ACIDENTE nem ataque hacker — foi uma OCORRÊNCIA GEOLOGICA. A Estacao de Tratamento de Aguas de Fortaleza foi construida sobre uma caverna de calcario que abriga uma colonia de bacterias que evoluram por 60 milhoes de anos. Durante o blackout, as bacterias liberaram um gas que causa 'atracao magnetica' no cerebro humano — as pessoas literalmente caminhavam em direcao a fonte do gas. As 47 pessoas que desapareceram nao foram mortas — foram 'absorvidas' pela colonia de bacterias como fonte de carbono. A substncia viscosa e a colonia em seu estado ativo. A CIAUB e inocente — a estacao fica sobre um punto geologico que nenhuma empresa sabe que existe.",
+      "answer_hint": "Que organismo pode fazer 47 pessoas caminharem em silencio por 12 horas sem que nenhuma parasse?"
+    },
+    {
+      "id": 31,
+      "title": "A Fuga da FEBEM",
+      "theme": "CRIME",
+      "level": "DIFICIL",
+      "tags": ["FEBEM", "ADOLESCENTES", "CRIMINOSOS", "SÃO PAULO"],
+      "location": "Tatuape, Sao Paulo, SP — 2018",
+      "synopsis": "Nove adolescentes fugiram da FEBEM de Tatuape na mesma noite. Cada um saiu por uma saida diferente, sem ativar nenhum alarme. A vigilancia electronic a e a vigilantes humanos nada viram. A policia militar encontrou pegadas em apenas 2 das 9 saidas — e essas saidas estavam trancadas. Tres dias depois, um dos adolescentes, Vinicius (16), foi encontrado morto no Parque do Tatuape. Os outros 8 nunca mais foram vistos. Vinicius foi assassinado com 7 facadas. Mas seu prontuario na FEBEM nao menciona habilidades especiais — nem defesa pessoal, nem habilidades em fechaduras.",
+      "clues": [
+        "As 9 saidas de emergencia da FEBEM foram abertas eletronicamente — cada uma com um codigo diferente",
+        "Vinicius estava no sistema de vigilancia como 'menor de risco' — sem habilidades especiais",
+        "Um dos adolescentes da fuga, Rafael (17), e filho de um delegate da policia civil",
+        "Os codigos de emergencia das 9 saidas foram alterados 24 horas antes da fuga — registrados por umfuncionario",
+        "A area externa onde Vinicius foi encontrado tem conexao subterranea com o sistema de metra"
+      ],
+      "suspects": [
+        {"name": "Rafael (Filho de Delegate)", "motive": "Ele e o lider do grupo — sua fuga foi planejada por seu pai"},
+        {"name": "Funcionario da FEBEM", "motive": "Recebeu pagamento para alterar os codigos e abrir as saidas"},
+        {"name": "Os 8 Adolescentes", "motive": "Fugiram para cometer crimes mais graves — e eliminaram Vinicius por dividas"}
+      ],
+      "solution": "O DELEGADO PAI DE RAFAEL e o mentor da fuga. Ele forjou historico de 'menor de risco' para seu filho e os outros 8 usando influencia sobre o sistema. O funcionario da FEBEM recebeu R$ 30 mil para alterar os codigos. A fuga foi um sucesso — os 8 adolescentes planejavam cometer roubos a caixas eletronicos usando as habilidades que aprenderam na FEBEM. Vinicius foi incluido na fuga por engano — ele era menor de verdade e nao tinha habilidades. Quando perceberam que Vinicius nao conseguiria acompanhar os roubos, tentaram fazer ele ficar para tras. Ele se recusou e tentou denuncia-los. Os 8 o eliminaram com as 7 facadas. Rafael, como filho de delegate, sabia que a policia nao investigaria seu proprio filho.",
+      "answer_hint": "Quem alterou os codigos de emergencia para abrir saidas que estavam trancadas?"
+    },
+    {
+      "id": 32,
+      "title": "O Hospital do Medo",
+      "theme": "HORROR",
+      "level": "EXTREMO",
+      "tags": ["HOSPITAL", "PSIQUIATRICO", "NOITE", "RECIFE"],
+      "location": "Boa Viagem, Recife, PE — 2021",
+      "synopsis": "O Hospital Psiquiatrico Santa Maria, em Recife, teve todos os seus 34 pacientes noturnos Diagnosticados com 'terror noturno coletivo' durante 4 noites consecutivas. Todos relataram a mesma experiencia: acordaram as 3h33 da manha ao mesmo tempo, sentiram uma presenca no quarto e ouviram uma voz dizer 'E hora de soltar o que voce segura'. Tres enfermeiros que Faziam plantao noturno peddem demissao no dia seguinte. Uma paciente, Maria (45), teve um surto psicotico e arrancou os proprios olhos. Em 1974, o mesmo hospital foi palco de um experimento com lobotomia em 12 pacientes.",
+      "clues": [
+        "Todos os 34 pacientes estavam em quartos com orientacao norte — janela para o mesmo lado",
+        "O hospital foi construido sobre um hospicio do seculo 19 que fechou apos uma morte suspeita",
+        "A hora 3h33 corresponde a um registro no libro de obitos de 1974: 'Falecimento as 3h33 por causa desconhecida'",
+        "Os 3 enfermeiros que pediram demissao trabalhavam no Setor D — o mesmo setor onde os experimentos de lobotomia ocorreram",
+        "Maria, antes do surto, trabalhaa como fotogafa forense em casos de violencia domestica"
+      ],
+      "suspects": [
+        {"name": "Dr. Renato (Diretor Clinico)", "motive": "Esta tentando reativar os experimentos de lobotomia sob outro nome"},
+        {"name": "O Experimento de 1974", "motive": "Os espiritos dos pacientes lobotomizados ainda ocupam o hospital"},
+        {"name": "Maria (Paciente)", "motive": "Ela e a unica que realmente ve a verdade — por isso perdeu os olhos"}
+      ],
+      "solution": "DR. RENATO e responsvel. Ele e bisneto do medico que dirigia os experimentos de lobotomia de 1974. Renato esta usando o hospital como laboratorio para recriar os experimentos — desta vez usando ondas sonoras de baixa frequencia (3.33 Hz) para induzir terror noturno nos pacientes. O objetivo: isolar o 'lobo temporal' do cerebro e criar 'pacientes perfeitos' que nao sentem medo. Maria era fotógrafa forense e reconheceu os padroes de violencia institucional nos registros antigos do hospital. Renato a dopou com farmacos para que ela 'perdesse' os olhos como 'surto' — na verdade, ele arrancou seus olhos para que ela nao pudesse mais ver os documentos que ia denuncia-lo. Os enfermeiros sentiram que algo estava errado e preferiram sair.",
+      "answer_hint": "Que hospital que ja fez experimentos com lobotomia pode fazer de novo sob outro nome?"
+    },
+    {
+      "id": 33,
+      "title": "A Maldicao da Moeda",
+      "theme": "OCULTISMO",
+      "level": "MEDIO",
+      "tags": ["MOEDA", "COLECAO", "RITUAL", "MACEIO"],
+      "location": "Maceio, AL — 2020",
+      "synopsis": "Um colecionador de moedas antigas, Pedro (62), reunio 8 moedas de prata do seculo 18 com inscricoes em Latim. Cada moeda tinha a mesma inscricao: 'QUOD ITERUM REDIIT'. Pouco depois de comprarem a ultima moeda, Pedro e seus 7 amigos — todos colecionadores — morreram em circunstancias diferentes ao longo de 6 meses. A policia descarta conexao, mas um historiador da Universidade Federal de Alagoas reconhece a inscricao: 'O que voltou'. A nona moeda esta em algum lugar do Brasil.",
+      "clues": [
+        "Todas as 8 moedas eram de uma mesma origem: uma ordem religiosa clandestine do seculo 18",
+        "A palavra 'REDIT' na inscricao e conjugacao do verbo latino 'returnar' — 'voltar'",
+        "Pedro e seus 7 amigos eram todos miembros de uma loja maonica historica em Maceio",
+        "A nona moeda e a 'moeda de passagem' — aquela que 'fecha' o circulo",
+        "As mortes seguem uma progressao geometrica: 1 mes, 2 meses, 3 meses apos a compra"
+      ],
+      "suspects": [
+        {"name": "Ordem dos Coivares (Seculo 18)", "motive": "As moedas foram usadas em rituais de sacrificios — e voltaram"},
+        {"name": "Loja Maonica", "motive": "A ordem religiosa do seculo 18 era uma frente maonica para rituais de sangue"},
+        {"name": "A Entidade da Moeda", "motive": "A inscricao nao e uma maldicao — e um aviso. Algo foi libertado."}
+      ],
+      "solution": "As MOEDAS foram cunhadas pela ORDEM DOS COIVARES, uma ordem religiosa portuguesa do seculo 18 que usava sacrificios humanos em seus rituais. Cada moeda representava um ponto cardinal — as 8 moedas criam um octagono quando posicionadas. Quando Pedro e seus amigos juntaram as 8 moedas, eles 'fecharam' o circulo e libertaram a entidade que estava aprisionada em cada moeda. A 'maldicao' nao e sobrenatural — e biol ogica: as moedas foram tratadas com uma substancia radioativa rara que causa cancer e doencas degenerativas em quem as manuseia por tempo prolongado. A nona moeda esta em um museu em Lisboa — e quem a Possui tambem vai morrer.",
+      "answer_hint": "O que pode matar 8 pessoas que juntas cunharam moedas de prata do seculo 18?"
+    },
+    {
+      "id": 34,
+      "title": "O Caso da Atriz Morta",
+      "theme": "MISTERIO",
+      "level": "MEDIO",
+      "tags": ["ATRIZ", "TELEVISAO", "CHACINA", "SÃO PAULO"],
+      "location": "Jardins, Sao Paulo, SP — 2019",
+      "synopsis": "A actriz de TV Carla (36) foi encontrada morta em sua casa de banho durante uma live no Instagram. A policia inicial认为是 suicdio. Mas Carla tinha acabado de receber o diagnosis de cancer no pancreas — e tinha R$ 5 milhoes de seguro de vida. Alem disso, seu celular mostrava que ela estava pesquisando: 'Como identificar veneno no champanhe'. A policia descobriu que Carla tinha um afferente: sua melhor amiga, Renata, era a unica pessoa que sabia que Carla ia abrir uma garrafa de champanhe naquela noite.",
+      "clues": [
+        "Carla foi encontrada com o celular na mao — gravando a live que nao foi ao ar",
+        "Renata visitou Carla 2 horas antes da morte e abriu a garrafa de champanhe",
+        "O seguro de vida de Carla tinha sido aumentado em R$ 4 milhoes, 30 dias antes da morte",
+        "Renata estava noivo ha 6 meses — mas seu noivo era ex-namorado de Carla",
+        "A garrafa de champanhe foi consumida inteira por Carla durante a live"
+      ],
+      "suspects": [
+        {"name": "Renata (Melhor Amiga)", "motive": "Noivo e ex-namorado de Carla + seguro de vida"},
+        {"name": "Pedro (Ex-Namorado)", "motive": "Terminou com Carla por Renata e tinha medo de que Carla revelasse um segredo"},
+        {"name": "Carla (Propria)", "motive": "Se suicidou e plantou evidencias para que Renata pagasse por sua morte"}
+      ],
+      "solution": "RENATA e PEDRO agiram juntos. Renata tinha uma relacao extraconjugal com Pedro, ex-namorado de Carla, ha 2 anos. Quando Carla descobriu que tinha cancer e ia morrer naturalmente em meses, ela ameaçou Renata: ou Renata a matava e ficava com o seguro, ou Carla revelaria tudo. Renata preferiu mata-la. Pedro forneceu o veneno — arsenico branco, indistinguivel de acucar — que Renata colocou no champanhe quando visitou Carla 2 horas antes. A live que Carla estava gravando era uma mensagem para sua irma — que foi encontr ada depois. Pedro e Renata estao livres porque a policia tratou como suicdio.",
+      "answer_hint": "Quem visitou Carla 2 horas antes e tinha motivo para querer o seguro de vida?"
+    },
+    {
+      "id": 35,
+      "title": "O Encanador do Submundo",
+      "theme": "SUSPENSE",
+      "level": "MEDIO",
+      "tags": ["SUBMUNDO", "ENcanador", "DROGAS", "RIO DE JANEIRO"],
+      "location": "Complexo do Alemao, Rio de Janeiro, RJ — 2020",
+      "synopsis": "Um encanador chamado Sergio (43) tem um servico peculiar: ele instala tubulars escondidos dentro de paredes de apartamentos de luxo no Rio. Cada tubo leva directamente a um porao. Quando a polci a faz uma batida, os moradores simplesmente dizem que o encanador 'esta em alguma obra'. Em 3 anos, Sergio instalou 47 tubulars. A polci a descobriu o esquema quando uma crianca de 7 anos caiu dentro de um tubular e morreu. Sergio desapareceu. Os apartamentos com tubulars foram vendidos para pessoas que a polci a nao consegue identificar.",
+      "clues": [
+        "Os tubulars eram todos de tamanho adulta — nunca foram projetados para criancas",
+        "Sergio e register em 3 cartorios com 3 nomes diferentes",
+        "Todos os apartamentos com tubulars tem uma parede 'diferente' — 5 cm mais grossa que o padrao",
+        "Os moradores dos apartamentos nunca estao em casa quando a polci a visita",
+        "Sergio tem uma rede de contatos em 5 cidades — cada cidade tem apartamentos com tubulars"
+      ],
+      "suspects": [
+        {"name": "Sergio (Encanador)", "motive": "Criou um sistema de desaparecimento under cover de 'reformas residenciais'"},
+        {"name": "Os Moradores Anonimos", "motive": "Usam os tubulars para sumir com personas indesejadas"},
+        {"name": "Rede Criminal Organizada", "motive": "Esta por tras do esquema — Sergio e apenas o meio de transporte"}
+      ],
+      "solution": "SERGIO e um EX-AGENTE DA PF que foi exonerado por envolvimento em um esquema de desaparecimento de testemunhas. Ele criou a rede de tubulars como um servico para quem precisa fazer pessoas 'desaparecerem' sem deixa rastros. Os tubulars levam a poroes que estao conectados ao sistema de esgotos da cidade — onde os corpos sao liquidados. A crianca que morreu caiu no tubular porque brincava na area de servico do apartamentovizinho. Sergio nao desapareceu — esta em outro pais com outra identidade. Os 'moradores anonimos' sao clientes da rede: politiqueiros, Empresarios, crimano so que usam os tubulars para sumir com rivais, testemunhas e socios incovenientes.",
+      "answer_hint": "Que ex-agente de seguranca cria sistemas de tubulares em paredes de apartamentos de luxo?"
+    },
+    {
+      "id": 36,
+      "title": "A Chuva de Ouro",
+      "theme": "CRIME",
+      "level": "EXTREMO",
+      "tags": ["OURO", "NATAL", "CONTRABANDO", "RIQUEZA"],
+      "location": "Natal, RN — 2021",
+      "synopsis": "Duas toneladas de ouro puro llegaram ao Porto de Natal em containers de uma empresa de reciclaje. O ouro nunca chegou ao destino. O gerente do porto, Julio (48), desapareceu com a carga. Tres semanas depois, uma chuva de objetos de ouro comecou a cair em 4 bairros de Natal. An eis de ouro, correntes, aneis e moedas antigas. A policia federal rastreou o ouro ate uma mina abandonada no interior do Rio Grande do Norte — onde 6 garimpeiros ilegales trabalham ha meses.",
+      "clues": [
+        "Os containers de reciclaje eram de uma empresa de fachada registrada em nome de uma empresa de cabelos em Sao Paulo",
+        "Julio e filho de um senator do Rio Grande do Norte",
+        "A mina abandonada tem um tunel que conecta diretamente ao porto de Natal",
+        "Os objetos de ouro que chovem nos bairros sao de origem pre-colonial — marcas de fogo de tocha",
+        "Um dos garimpeiros e sobrinho de Julio"
+      ],
+      "suspects": [
+        {"name": "Julio (Gerente do Porto)", "motive": "Roubou o ouro com seu pai, senator, para esconder em nome do esquema"},
+        {"name": "Senator Borges (Pai de Julio)", "motive": "Esta por tras do contrabando de ouro desde os anos 1990"},
+        {"name": "Os 6 Garimpeiros", "motive": "Encontraram o ouro da mina e comecaram a vender no mercado negro"}
+      ],
+      "solution": "O SENHOR BORGES e o maestro. O esquema existe ha mais de 30 anos: ouro contrabandeado da Bolivia era importado legalmente como 'residuos de reciclaje' e vendido no mercado negro. Julio era o gerente operacional. Quando a PF se aproximou, Borges fez um acordo com os garimpeiros da mina abandonada: distrair a atencao jogando ouro antigo na chuva. Os objetos pre-coloniais nao sao do ouro contrabandeado — sao de uma mina secreta que os garimpeiros encontraram dentro do tunel. Borges esta livre porque Julio desapareceu (na verdade, foi protected por um programa de protecao de testemunhas que Borges manipulou). Os garimpeiros estao vivos porque sabem demais.",
+      "answer_hint": "Quem tem poder para manipul ar programas de protecao de testemunhas e fazer o ouro desaparecer?"
+    },
+    {
+      "id": 37,
+      "title": "A Boneca Assassina",
+      "theme": "HORROR",
+      "level": "MEDIO",
+      "tags": ["BONECA", "ANTIGUIDADE", "BRASALIA", "FATAL"],
+      "location": "Asa Norte, Brasilia, DF — 2021",
+      "synopsis": "Uma boneca antik de 80 anos foi leiloada em Brasilia por R$ 12 mil. A compradora, Patricia (29), a colocou no quarto de sua filha Luana (6). Na primeira noite, Luana acordou chorando: 'A boneca me mandou calar a boca'. Na segunda noite, Patricia acordou as 3h da manha com a boneca na sua cama — ela tinha sido vista pela ultima vez na cama de Luana. Na terceira noite, Patricia foi encontrada morta. Luana, de 6 anos, declara: 'A boneca matou minha mamae'. A boneca desapareceu.",
+      "clues": [
+        "A boneca era de uma fabrica de bonecas na Alemanha que fechou apos 3 funcionarias morrerem de 'causas naturais'",
+        "A compradora anterior da boneca, Ana (45), tambem morreu 30 dias depois de compra-la",
+        "Luana e autista — tem dificuldade em distinguir realidade de fantasia",
+        "A boneca nunca foi encontrada pela policia",
+        "A boneca tem um mecanismo de voz antigo que funciona com molas — pode ter sido manipulada"
+      ],
+      "suspects": [
+        {"name": "Luana (Filha)", "motive": "Luana de 6 anos e autista — pode ter matado a mae e nao entende o que fez"},
+        {"name": "O Mecanismo da Boneca", "motive": "A boneca e um mecanismo antigo que pode ser ativado remotamente por qualquer pessoa"},
+        {"name": "Ana (Compradora Anterior)", "motive": "A boneca e amaldicoada — cada proprietaria subsequente morre"}
+      ],
+      "solution": "LUANA, com 6 anos e transtorno do espectro autista, e a responsavel. Patricia era mae ausente emocionalmente — trattava Luana com frieza e frustacao. Luana, que tem dificuldade em separar realidade de fantasia, internalizou a boneca como uma figura que 'fala por ela'. Patricia foi morta por Luana com um objeto afiado enquanto dormia — Luana nao entende que matou sua mae. A boneca foi escondida por Luana no fundo do armario — ela acredita que a boneca 'ajudou'. A compradora anterior Ana morreu de causa natural (cancer). O mecanismo de voz da boneca e real mas inofensivo — foi manipulado por Patricia para 'provar' a mae que a boneca era perigosa e assim NAO SER PUNIDA por deixa-la dormir com Luana.",
+      "answer_hint": "Que mae com uma filha autista pode ter dificuldade em distinguir realidade de fantasia?"
+    },
+    {
+      "id": 38,
+      "title": "O Altar Subterraneo",
+      "theme": "OCULTISMO",
+      "level": "EXTREMO",
+      "tags": ["ALTAR", "CANDOMBLE", "SERTÃO", "PARAIB A"],
+      "location": "Sousa, PB — 2020",
+      "synopsis": "Um tunel foi descoberto por acaso debaixo de uma propriedade rural em Sousa, na Paraiba. O tunel leva a um altar subterraneo completo, com 8 ossarios e simbolos de Candomble. A policia federal foi chamada. No centro do altar, urna com cinzas de pelo menos 50 pessoas diferentes. O proprietario da terra, Seu Antonio (78), declara que o altar existe ha mais de 100 anos e ele apenas herdou. Mas documentos rurais mostram que Seu Antonio comprou a terra em 1980 — depois que o primeiro ossario foi construdo.",
+      "clues": [
+        "Os ossarios tem inscricoes em Yoruba arcaico — a lingua dos ritos originais de Candomble",
+        "As cinzas nos ossarios contem fosfato de calcio em concentracao anmala",
+        "Seu Antonio e membro da IRMANDADE DE OXALHA — uma ordem maonica oculta que pratica rituais de sangue",
+        "A terra de Seu Antonio foi comprada com dinheiro de uma fundaao sem fins lucrativos",
+        "Os rituais no altar ainda estao acontecendo — cinzas frescas foram encontradas"
+      ],
+      "suspects": [
+        {"name": "Seu Antonio (Proprietario)", "motive": "Membro da Irmandade de Oxalhar — pratica rituais de sangue ha 40 anos"},
+        {"name": "Irmandade de Oxalhar", "motive": "Ordem maonica oculta que usa sacrificios humanos em nome de divindades"},
+        {"name": "A Fundaao sem Fins Lucrativos", "motive": "A entidade e uma frente de lav agem de dinheiro para rituais"}
+      ],
+      "solution": "A IRMANDADE DE OXALHAR e responsavel. Esta ordem existe no Brasil desde o seculo 19 — usa a estrutura do Candomble como cover para rituais de sangue humano. Os 50 ossarios representam 50 anos de rituais anuais — cada ritual, uma vtima. Seu Antonio e o gardien atual do altar. A fundaao sem fins lucrativos e uma frente que lava dinheiro de politicos e Empresarios que partecipam dos rituais como 'membros honorarios'. Os participantes de alto nivel nao sabem que pessoas reais sao mortas — acham que sao 'trabalhos' simb olicos. As cinzas frescas confirmam que os rituais continuam. A investigaao foi transferida para a Justica Federal apos interferencia politica.",
+      "answer_hint": "Que ordem religiosa usa dinheiro de politicos para sacrificar pessoas ha mais de 100 anos?"
+    },
+    {
+      "id": 39,
+      "title": "O Caso do爷会 de Tiro",
+      "theme": "MISTERIO",
+      "level": "MEDIO",
+      "tags": ["CLUBE", "TIRO", "BRASALIA", "CORRUPCAO"],
+      "location": "Lago Sul, Brasilia, DF — 2019",
+      "synopsis": "O Clube de Tiroおお bilidade do Lago Sul, em Brasilia, teve seu lic enc iamento revogado pela polci a depois que 3 membros morreram em 'acidentes' de disparo em 6 meses. Todos os 3 tinham algo em comum: eram testemunhas em um processo de corrupcao contra um general da reserva. A polci a militar registrou os 3 casos como 'acidentes'. Mas o instrutor de tiro do clube, Sargento Mauro (55), foi encontrado morto no dia em que ia presta depo 10 meses depois.",
+      "clues": [
+        "O general da reserva e dono de uma empresa que fornece equipamentos para o Clube de Tiro",
+        "O instrutor Sargento Mauro registrou em seu dir io: 'Esses nao sao acidentes. Sao execucoes.'",
+        "As armas usadas nos 'acidentes' eram sempre do mesmo modelo — uma carabina semi-automatica",
+        "O Clube de Tiro tem conexao direta com o DOPS da era da ditadra",
+        "Mauro foi morto com a mesma carabina que aparece nos 'acidentes'"
+      ],
+      "suspects": [
+        {"name": "General Borges (Reserva)", "motive": "Eliminou as testemunhas do processo de corrupcao que ele mesmo arquitetou"},
+        {"name": "Diretor do Clube", "motive": "Facilitou os assassinatos em troca de contratos com a empresa do general"},
+        {"name": "Mauro (Sargento)", "motive": "Foi morto por saber que os 'acidentes' eram assassinatos planejados"}
+      ],
+      "solution": "O GENERAL BORGES e responsavel. Ele e um general da reserva que desviou R$ 200 milhoes em contratos de defesa. As 3 testemunhas iam denuncia-lo. Borges contratou o diretor do Clube de Tiro para elimina-las usando a carabina semi-automatica — que era a unica arma capaz de fazer os ferimentos parecerem 'acidentes'. O diretor alterava as armas entre os treinos para que as impressoes digitais coincidissem. Mauro descobriu o padrao e foi mata-lo com a mesma arma para fechar o ciclo. Borges foi absuelto porque seus contatos no governo arquivaram o caso por 'falta de provas'.",
+      "answer_hint": "Que general tem conexao com contratos de defesa e acesso a armas de fogo militares?"
+    },
+    {
+      "id": 40,
+      "title": "O Passageiro 13",
+      "theme": "SUSPENSE",
+      "level": "EXTREMO",
+      "tags": ["AVIAO", "PASSAGEIRO", "TEMPO", "AMAZONAS"],
+      "location": "Voo Manaus-Belem — 2019",
+      "synopsis": "O Voo 813 da Azul, fazendo a rota Manaus-Belem com 89 passageiros, pousou em Belem com 90 pessoas a bordo. Uma comissaria de bordo notou uma pessoa que nenhum passageiro reconheceu — e nenhum passageiro que a tripulacao conhecesse. A pessoa foi vista entrando no aviao em Manaus. Quando tentaram identifica-la, nao havia registro de embarque. A pessoa desapareceu antes do desembarque. A tripulacao jurou que a pessoa existia. Os 89 passageiros juram que nao existe. A pessoa tinha uma marca de nascenca em formato de triangulo no pescoco.",
+      "clues": [
+        "A marca de nascenca no pescoco corresponde a um simbolo de uma cultura indigena extinata do Amazonas",
+        "O aviao pousou em Belem 7 minutos antes do horario agendado — sem raz o metereologica",
+        "Um passageiro, Roberto, tem um sonho recorrente: ele ve a pessoa do aviao em todas as suas sestas",
+        "A pessoa foi vista por 3 comissarias diferentes — todas independientes",
+        "Roberto e descendente de uma tribo indigena que desapareceu em 1902"
+      ],
+      "suspects": [
+        {"name": "Roberto (Passageiro)", "motive": "A pessoa do aviao e um ancestral seu que desapareceu com a tribo em 1902"},
+        {"name": "A Entidade Indigena", "motive": "A pessoa e um spirit que voltou para buscar sua tribo descendente"},
+        {"name": "O Aviao (Próprio)", "motive": "O aviao passou por uma zona de turbulencia que o deslocal 7 minutos no tempo"}
+      ],
+      "solution": "ROBERTO e a chave. Ele e descendente direto da tribo Uap esa que desapareceu misteriosamente em 1902 — todos os 120 membros sumiram em uma noite. A pessoa no aviao e um ancest commune a toda a tribo — uma consciencia coletiva que pode se manifestar. O aviao de alguma forma atravessou uma anomalia temporal que existe sobre a floresta amazonica — e permitiu que essa consciencia coletiv a entrasse no aviao por 7 minutos. Roberto, que carrega o DNA mais puro da tribo, foi o unico que conscientizadamente sentiu a presenca. A consciencia voltou para buscar seus descendentes — e encontrou Roberto. Os 7 minutos 'a menos' no voo sao reais — o tempo foi coletado pela entidade.",
+      "answer_hint": "Que passageiro de um voo sobre a Amazonia tem conexao com uma tribo que desapareceu em 1902?"
+    },
+    {
+      "id": 41,
+      "title": "A Falsa Epidemia",
+      "theme": "CRIME",
+      "level": "MEDIO",
+      "tags": ["EPIDEMIA", "MEDICAMENTOS", "FARMACEUTICA", "CAMPINAS"],
+      "location": "Campinas, SP — 2021",
+      "synopsis": "Uma 'epidemia' de doencas respiratorias atingiu Campinas. 200 pessoas foram internadas, 34 morreram. O SUS Gastou R$ 12 milhoes em internacoes. A fonte nunca foi identificada. Um epidemiologista da UNICAMP, Dr. Fernando, descub e que todas as vtmas tinham uma coisa em comum: eram funcionarias de uma empresa de reciclagem de medicamentos vencidos. A empresa vendia os medicamentos 'reciclados' para farmacias em 7 estados. O dono da empresa, Sr. Mendes, desapareceu no mesmo dia em que a OMS anunciou a investigacao.",
+      "clues": [
+        "Os medicamentos reciclados continham subst ncias usadas em processos industriais, nao farmaceuticos",
+        "A UNICAMP tinha um contrato de pesquisa com a empresa de Mendes — pago por resultados",
+        "Mendes e egresso da faculdade de farmacia da UNICAMP — formou ha 25 anos",
+        "Os farmacos encontrados no sangue das vtmas correspondem a um unlote produzido ha 3 anos",
+        "A empresa de Mendes tambem fornecia medicamentos para 3 hospitais publicos de Campinas"
+      ],
+      "suspects": [
+        {"name": "Sr. Mendes (Dono da Empresa)", "motive": "Vendeu medicamentos vencidos reciclados como novos — ganho de R$ 50 milhoes"},
+        {"name": "Dr. Valeria (UNICAMP)", "motive": "Cobriu os resultados negativos da pesquisa para manter o contrato"},
+        {"name": "Os Fornecedores", "motive": "Sabiam que os medicamentos eram reciclados e venderam mesmo assim"}
+      ],
+      "solution": "SR. MENDES e DR. VALERIA agiram juntos. Mendes vendia medicamentos vencidos que eram 'reciclados' (na verdade, realcoolados com substancias industriais) para farmacias e hospitais. Valeria, pesquisadora da UNICAMP, recebeu R$ 2 milhoes para certify os medicamentos como seguros. Quando a 'epidemia' eclodiu, Mendes fugiu para o Paraguai. Valeria destruiu seus dados de pesquisa. A UNICAMP, para proteger sua reputacao, nao processou Valeria. Os 34 mortos eram, em sua maioria,funcionarios da propia empresa de reciclaje — que usavam os medicamentos que vendiam. A OMS arquivou o caso como 'etiologia indefinida'.",
+      "answer_hint": "Que pesquisadora da UNICAMP tinha contrato com a empresa de medicamentos e foi paga para certificar seguranca?"
+    },
+    {
+      "id": 42,
+      "title": "O Premio da Loteria",
+      "theme": "CRIME",
+      "level": "MEDIO",
+      "tags": ["LOTERIA", "Sorte", "FAMILIA", "LONDRINA"],
+      "location": "Londrina, PR — 2020",
+      "synopsis": "Dona Helena (68) ganhou R$ 27 milhoes na Mega-Sena. Seu genro, Tiago (38), foi o responsavel por faze-la jogar os numeros que ele 'sonhou'. A neta Bia (12) comecou a ter pesadelos apos o premio: sonhava com a avo morta. Dona Helena morreu de enfarto 3 meses depois do premio. Tiago recebeu 70% da heranca. Um ano depois, Tiago foi encontrado morto na mesma data em que Dona Helena morreu. Sua mulher, Carla (35), estava com outro homem no momento. O agente da Caixa que processou o bilhete foi transfers do para outra cidade.",
+      "clues": [
+        "O bilhete ganador foi pago em dinheiro vivo — R$ 4.800 em especie",
+        "Os numeros que Tiago 'sonhou' tinham uma particularidade: somavam 27",
+        "O agente da Caixa que processou o bilhete foi transferido por 'motivos de seguranca'",
+        "Bia (12) sabia que 'o paizinho' tinha matado a avo — contou a uma terapeuta",
+        "O bilhete foi validado em uma casa loterica que nunca havia tenido um premio acima de R$ 1.000"
+      ],
+      "suspects": [
+        {"name": "Tiago (Genro)", "motive": "Matou Dona Helena para ficar com a heranca — mas foi morto pelo mesmo metodo"},
+        {"name": "Carla (Filha)", "motive": "Sabia do plano de Tiago e agora esta com o seguro de vida dele"},
+        {"name": "Agente da Caixa", "motive": "Fazia parte do esquema deFraude na loteria — e foi silenciado com a transferencia"}
+      ],
+      "solution": "O esquemas envolve TRES PESSOAS. Primeiro: o AGENTE DA CAIXA. Ele e parte de uma rede que vende bilhetes manipulationados. Os numeros que Tiago 'sonhou' eram na verdade uma combinacao programada — o agente sabia quais numeros iam sair porque tem acesso antecipado aos sorteios. Tiago matou Dona Helena com uma injeccao de ar para receber a heranca mais rapidamente. Mas Carla descobriu que Tiago planejava mata-la tambem e contratou um sicario para mata-lo no primeiro anniversario da morte de Dona Helena — para fazer parecer uma coincidencia. Bia, que e ainda crianca, nao entende completamente o que sabe — por isso tem os pesadelos.",
+      "answer_hint": "Quem recebeu transferencia por seguranca depois de processar um bilhete de loteria manipulado?"
+    },
+    {
+      "id": 43,
+      "title": "A Rua sem Saida",
+      "theme": "HORROR",
+      "level": "EXTREMO",
+      "tags": ["RUA", "FANTASMA", "OBRA", "SÃO PAULO"],
+      "location": "Vila Madalena, Sao Paulo, SP — 2020",
+      "synopsis": "A Rua das Flores, em Vila Madalena, foi reaberta apos 6 meses de obras de infraestrutura. Na primeira semana, 4 pessoas que passaram pela rua morreram em acidentes diferentes. Na segunda semana, 8 pessoas que passaram pela rua tiverem 'episodios psicoticos breves'. A rua foi lacrada novamente. A obra de 6 meses nao tinha nenhum registro de planejamento — nenhum projeto, nenhum fornecedor, nenhum orcamento. O bairro nao tem memoria de ter havido obras. O unico documento encontrado: um alvara de licenca expedido em nome de uma empresa que nao existe.",
+      "clues": [
+        "As 4 pessoas que morreram na primeira semana foram todas atropeladas pelo mesmo tipo de veiculo",
+        "A empresa de licenca e registrada em um cartorio de Minas Gerais que tambem nao existe",
+        "A rua e um pouco mais longa do que era antes das obras — 3 metros a mais",
+        "Um morador antiguo do bairro garante que a rua nao existia ha 40 anos",
+        "O asfalto da rua e 2 graus mais quente que o resto da cidade"
+      ],
+      "suspects": [
+        {"name": "A Entidade da Rua", "motive": "A rua foi 'aberta' por algo que permite a passagem para outra dimensao"},
+        {"name": "Obras Fantasma", "motive": "A obra foi uma fachada para algo ser construdo debaixo da rua"},
+        {"name": "Prefeitura de Sao Paulo", "motive": "A obra foi feita sem licenca porque envolve estruturas nao documentadas"}
+      ],
+      "solution": "A OBRA E REAL e foi feita por uma empresa especializada em estruturas subterraneas. A Rua das Flores foi construda sobre um antigo terreno indigena onde rituais de passagem eram realizados. A empresa 'fantasma' foi contratada por um grupo de pessoas que descobriram que a rua tinha um 'portal' natural — uma abertura dimensional que permite a passagem de entidades. A rua foi alargada em 3 metros para 'anular' o portal. Mas os 3 metros a mais criaram um novo ponto de ancoragem — agora, qualquer pessoa que passa pela rua entra em contato com a entidade que habita a dimens ao adjacente. As mortes e os epis dios psicoticos sao efeitos colaterais do contato. A rua foi lacrada porque os responsaveis perceberam que a solucao piorou o problema.",
+      "answer_hint": "Que rua foi alargada por 3 metros e agora e 2 graus mais quente que o resto da cidade?"
+    },
+    {
+      "id": 44,
+      "title": "O Pintor das Sombras",
+      "theme": "OCULTISMO",
+      "level": "DIFICIL",
+      "tags": ["PINTOR", "GALERIA", "PINTURA", "SÃO PAULO"],
+      "location": "Vila Olimpia, Sao Paulo, SP — 2019",
+      "synopsis": "Um pintor desconhecido, chamado apenas 'Sebastian', deixa 12 quadros em uma galeria de arte em Sao Paulo sem Deixe de negocio. Os quadros sao extraordinario — paisagens do Rio de Janeiro que nao existem em nenhum arquivo fotografico. A galeria decide expo-los. Uma visitante, Teresa (55), reconhece uma paisagem: e a view de sua janela em 1965. Nenhuma foto disso existe porque Teresa nunca fotografou. Sebastian desapareceu. Um mes depois, Teresa e outras 4 pessoas que reconheceram paisagens estao mortas.",
+      "clues": [
+        "Sebastian enviou os quadros por um servico de delivery sem deixar nome ou telefone",
+        "Todas as 5 pessoas que morreram eram nascidas no mesmo ano: 1962",
+        "A paisagem que Teresa reconheceu mostra o exato momento da sua primeira menstruacao",
+        "Os quadros foram pintados com tinta que contm proteinas humanas",
+        "Sebastian e o nome do primeiro artista a pintar a mesma paisagem em 1856"
+      ],
+      "suspects": [
+        {"name": "Sebastian (Pintor)", "motive": "Nao e humano — e uma entidade que pinta momentos de transicao da vida humana"},
+        {"name": "O Legado de Sebastian (1856)", "motive": "O primeiro Sebastian pintou em 1856 — ha 2 Sebastians identicos"},
+        {"name": "A Galeria de Arte", "motive": "A exposicao dos quadros foi o que activou as mortes"}
+      ],
+      "solution": "SEBASTIAN E UMA ENTIDADE que se manifesta a cada 30-40 anos como pintor. Cada vez que se manifesta, pinta 'momentos de transicao' — eventos biologicos que marcam uma mudanca na vida humana (primeira menstruacao, primeira relacao sexual, morte). As proteinas humanas na tinta sao literais — Sebastian usa substancias do corpo das pessoas que estao prestes a passar pela transicao. As 5 pessoas mortas estavam todas no momento EXATO de uma transicao biologica profunda. Teresa reconheceu a paisagem porque ela estava no momento de sua primeira menstruacao quando olhou pela janela — Sebastian pintou esse exato momento. Sebastian desapareceu porque seu trabalho de coletar essas energias estava completo.",
+      "answer_hint": "Que pintor usa proteinas humanas na tinta e pinta momentos de transicao biologica?"
+    },
+    {
+      "id": 45,
+      "title": "O Caso do Navio Fantasma",
+      "theme": "MISTERIO",
+      "level": "EXTREMO",
+      "tags": ["NAVIO", "FANTASMA", "OCEANO", "SANTOS"],
+      "location": "Baixada Santista, SP — 2018",
+      "synopsis": "Um navio cargueiro foi avistado por 3 pescadores a 40 km da costa de Santos. Os pescadores se aproximaram. O navio estava vazio, sem carga, sem tripulacao. O nome no casco: MV Santa Luzia. O navio nao existe em nenhum registro de navegacao. Os pescadores voltaram para casa — todos os 3 morreram nos proximos 6 meses, cada um de uma doenca diferente. Uma historiadora naval descobriu que um navio chamado MV Santa Luzia afundou em 1952 com toda a tripulacao. O afundamento nunca foi explicado.",
+      "clues": [
+        "O MV Santa Luzia de 1952 afundou com 32 tripulantes — todos os corpos nunca foram encontrados",
+        "Os 3 pescadores tinham em comum: todos eram filhos de pescadores que morreram no mar",
+        "O navio foi visto varias vezes nos ultimos 30 anos por diferentes pescadores — sempre com nomes diferentes",
+        "O casco do navio atual tem a mesma marca de ferrugem que o navio de 1952",
+        "Os pescadores que morreram foram todos replacedos por outros pescadores nas mesmas familias"
+      ],
+      "suspects": [
+        {"name": "Os 32 Tripulantes de 1952", "motive": "Algo afundou com eles — e esse algo esta agora no navio vazio"},
+        {"name": "A Corrente do Mar", "motive": "O navio fantasma e um fenomeno fisico — agua que reflete eventos passados"},
+        {"name": "As Familias dos Pescadores", "motive": "Ha um padrao: cada geracao perde 3 homens para o mesmo destino"}
+      ],
+      "solution": "O NAVIO SANTA LUZIA E a mesma embarca ao longo do tempo — ele nao e um fantasma, e um ponto fixo no oceano. Em 1952, o navio atravessou uma anomalia oceanografica na Baixada Santista — um lugar onde a agua e tao antiga que funciona como 'memoria liquida'. O navio ficou preso nesse ponto. Qualquer pessoa que se aproxima o suficiente comega a ter as memorias do navio — incluindo a morte. Os 32 tripulantes nao morreram — eles ainda estao no navio, presos em um loop temporal de 1952. Os pescadores foram substitudos por suas familias porque cada geracao sabe que ha um 'lugar no mar' que 'chama' os homens. A historiadora naval, ao descobrir a verdade, desapareceu.",
+      "answer_hint": "Que navio de 1952 afundou com 32 tripulantes e agora e visto por pescadores?"
+    },
+    {
+      "id": 46,
+      "title": "A Escola do Silencio",
+      "theme": "SUSPENSE",
+      "level": "EXTREMO",
+      "tags": ["ESCOLA", "FANTASMAS", "CRIANCAS", "FLORIANOPOLIS"],
+      "location": "Campeche, Florianopolis, SC — 2021",
+      "synopsis": "Uma escola primaria no Campeche foi fechada apos 12 alunos declararem que ouviram uma professora que morreu ha 30 anos na sala de aula. A professora, Maria (1960-1985), morreu durante uma tempestade quando um raio caiu na escola. A escola tem 30 anos, mas uma foto de 1965 mostra a mesma escola — construida no mesmo lugar. Os 12 alunos que ouviram Maria foram todos diagnostados com 'estresse post-traumatico' apos a experiencia. Maria foi vista 3 vezes: sempre ensinando a mesma licao de matematica.",
+      "clues": [
+        "A escola foi construida sobre os fundamentos de uma casa que queimou em 1960 com 6 criancas dentro",
+        "Maria morreu as 14h33 de uma tarde de quinta-feira — exato momento do relogio",
+        "A licao de matematica que Maria ensina corresponde a um problema especfico do livro didatico de 1985",
+        "Os 12 alunos tem em comum: todos tem irmaos que ja morreram",
+        "A escola tem um sistema de som que transmite a mesma licao repetidamente quando chove"
+      ],
+      "suspects": [
+        {"name": "Maria (Professora)", "motive": "Esta presa na escola porque morreu antes de terminar sua licao"},
+        {"name": "As 6 Crianca da Casa Queimada", "motive": "Esto no lugar onde a escola foi construda — e nao querem ser perturbadas"},
+        {"name": "Sistema de Som da Escola", "motive": "Ha um dispositivo que reproduce a voz de Maria quando detecta presenca"}
+      ],
+      "solution": "Ha TRES CAMADAS. Primeiro: o SISTEMA DE SOM. Um tecnico de manutencao da escola descobriu que havia uma fita cassete de 1985 com a voz de Maria presa no sistema de som. A fita se ativa quando h detect or de chuva e umidade ativam o sistema. Segundo: AS 6 CRIANCAS da casa queimada. A escola foi construida sobre os fundamentos da casa, sem nenhum alerta. As criancas nao fazem mal — apenas querem que a escola seja demolida e a terra seja devolvida. Terceiro: MARIA. Ela morreu as 14h33 e sua consciencia esta preso ao espaco. Mas a 'Maria' que os alunos ouvem e a fita cassete. A escola foi fechada para evitar que os alunos descobrissem a verdade sobre a casa que foi queimada para dar lugar a escola.",
+      "answer_hint": "Qual escola foi construda sobre os fundamentos de uma casa que queimou com 6 criancas dentro?"
+    },
+    {
+      "id": 47,
+      "title": "O Sequestrador de Malas",
+      "theme": "CRIME",
+      "level": "MEDIO",
+      "tags": ["AEROPORTO", "MALAS", "SEQUESTRO", "GUARULHOS"],
+      "location": "Guarulhos, SP — 2020",
+      "synopsis": "Um sistema organizado de sequestro de bagagens foi descoberto no Aeroporto de Guarulhos: 34 passageiros tiveram suas malas desviadas nos ultimos 8 meses. Os passageiros eram todos funcionarios de empresas que trabajan com documentacao sigilosa. As malas nunca foram abertas pelo sequestrador — eram guardadas intactas e devolvidas anonimamente 30 dias depois. So faltava uma coisa: cada mala tinha um objeto pessoal acrescentado — uma foto de uma pessoa que o passageiro nao reconhecia.",
+      "clues": [
+        "As malas eram todas de passageiros que viajavam frequentemente para o exterior",
+        "A foto acrescentada em cada mala mostrava uma pessoa diferente — cada foto era do mae de cada passageiro",
+        "O sequestrador tinha acesso as listas de passageiros e aos registros de bagagem",
+        "Todas as 34 empresas afetadas tem contratos com o governo federal",
+        "O sequestrador retornou todas as malas sem pedir resgate — so com a foto"
+      ],
+      "suspects": [
+        {"name": "Funcionario do Aeroporto", "motive": "Tem acesso a listas de passageiros e registros de bagagem"},
+        {"name": "Agencia de Inteligencia", "motive": "Esta monitorando funcionarios de empresas com acesso a documentacao sigilosa"},
+        {"name": "O Passageiro", "motive": "Um dos passageiros e o sequestrador — esta investigando os outros"}
+      ],
+      "solution": "UMA AGENCIA DE INTELIGENCIA esta por tras do esquema. O 'sequestrador' e uma unidade de contra-inteligencia que monitora funcionarios de empresas com acesso a documentacao governamental. O desvio das malas e uma forma de verificar se esses funcionarios estao carregando documentacao nao autorizada ou objetosProibidos. A foto da mae e uma advertencia sutil: 'Sabemos quem voce e e onde sua familia esta'. As malas intactas provam que o objetivo era monitorar, nao roubar. O caso foi arquivado como 'atividade de seguranca interna' quando ficou claro que uma agencia do governo estava envolvida.",
+      "answer_hint": "Que entidade governamental sequestra malas de passageiros sem abrir e devolve com foto da mae?"
+    },
+    {
+      "id": 48,
+      "title": "A Ponte dos Suspiros",
+      "theme": "HORROR",
+      "level": "EXTREMO",
+      "tags": ["PONTE", "SUSPENSE", "PERNAMBUCO", "OCEANO"],
+      "location": "Olinda, PE — 2020",
+      "synopsis": "A Ponte dos Suspiros, em Olinda, tem 400 anos. E considerada um ponto de encontro de suicidas ha decadas. A prefeitura construiu uma rede de seguranca abaixo da ponte para evitar quedas. Na primeira semana, 8 pessoas saltaram mesmo assim — a rede nao segurou ninguem. A rede foi vistoriada e estava perfeita. Tres meses depois, 23 pessoas saltaram — todas pela mesma seo da ponte. A rede estava intacta. Um historiadorsubmarino descobriu que a ponte foi construda sobre um antigo caminho subaquatico para sacrificios.",
+      "clues": [
+        "Todas as pessoas que saltaram tinham buscado ajuda medica por depressao nos 6 meses anteriores",
+        "A rede de seguranca esta construda sobre estacas de madeira de 400 anos",
+        "A ponte esta em uma posicao astronomica precisa: alinha com o nascer do sol do solsticio de verao",
+        "As pessoas que saltaram nao foram empurradas — pularam sozinhas",
+        "O caminho subaquatico sob a ponte tem 2.000 anos e conectava duas aldeias indigenas"
+      ],
+      "suspects": [
+        {"name": "A Entidade Subaquatica", "motive": "O caminho subaquatico era usado para sacrificios — a entidade ainda esta ativa"},
+        {"name": "A Estrutura da Ponte", "motive": "A ponte e construda em uma posicao astronomica que amplifica voices mentais"},
+        {"name": "A Rede de Seguranca", "motive": "Esta rede nao funciona porque algo 'suja' a mente das pessoas antes de pular"}
+      ],
+      "solution": "A ENTIDADE SUBAQUATICA e real. O caminho subaquatico sob a ponte era usado pela tribo indigenous local para sacrificios humanos — a entidade que se alimenta desses sacrificios esta viva ha 2.000 anos. A ponte, construda pelos portugueses sobre o caminho, nao a 'matou' — apenas mudou seu modo de opera ao. A entidade agora usa uma frequencia que afeta pessoas com tendencias depressivas — as faz pular mesmo quando h salvacao. A rede nao 'falhou' — a entidade simplesmente nao permite que ninguem seja salvo quando ela quer uma vtima. A rede intacta e a prova de que a queda nao e fisica — e mental. As pessoas que saltaram relataram ouvir uma voz dizendo 'venha' momentos antes de pular.",
+      "answer_hint": "Que ponte de 400 anos foi construda sobre um caminho subaquatico de sacrificios de 2.000 anos?"
+    },
+    {
+      "id": 49,
+      "title": "O Assassinato Perfect",
+      "theme": "CRIME",
+      "level": "EXTREMO",
+      "tags": ["ASSASSINATO", "COMPLEXO", "SÃO PAULO", "CONTRATADO"],
+      "location": "Jardins, Sao Paulo, SP — 2021",
+      "synopsis": "Ricardo (52), empres ario, foi morto em sua propia casa de jantar enquanto recebia 8 convidados. O assassino foi gravado por cameras entrando e saindo. A impresao digital na arma corresponde a Bruno (35), um antifraude de banco. Bruno garante que nunca esteve na casa de Ricardo e tem 8 testemunhas que confirmam seu paradeiro. A armas foi rastreada ate um lote de 1.000 armas compradas ha 10 anos para o Exercito — e nunca usadas. Nenhum dos 8 convidados viu o assassino entrar ou sair.",
+      "clues": [
+        "Bruno trabalha em um banco que tem divida de R$ 80 milhoes com a empresa de Ricardo",
+        "As cameras de seguranca gravam em loop de 48 horas — as imagens do assassinato foram sobrepostas",
+        "A arma do crime foi 'limpa' por um profissional — sem impressao digitais",
+        "Bruno e cliente de um servicio de 'alibi digital' — tem registros假的 de geolocalizacao",
+        "O motivo real do assassinato: Ricardo estava prestes a vender a empresa — o que eliminaria os empregos de 200 pessoas"
+      ],
+      "suspects": [
+        {"name": "Bruno (Antifraude)", "motive": "Foi contratado para matar Ricardo e seu alibi digital proof sua inocencia"},
+        {"name": "Os 8 Convidados", "motive": "Um deles e o verdadeiro assassino — os outros 7 sao testemunhas falsoas"},
+        {"name": "O Sindico do Predio", "motive": "A rede de cameras e controlada por ele — ele alterou as imagens"}
+      ],
+      "solution": "BRUNO e o assassino — e e tao inteligente quanto parece. Bruno estudou o sistema de cameras do predio de Ricardo por meses. Sua 'impressao digital' na arma foi plantada por ele mesmo quando trabalhava no banco — ele coletou digitais de objetos que Bruno tocou. As cameras nao foram 'sobrepostas' — Bruno contratou um hacker para replaces as imagens. Os 8 'testemunhas' de Bruno sao pessoas que ele encontrou por casualidade naquele dia — nao sabem que foram usadas como alibi. O motivo real: Bruno foi contratado por um fundo de investimento que perderia R$ 80 milhoes se Ricardo vendesse a empresa. O sindico participou do esquema em troca de R$ 200 mil.",
+      "answer_hint": "Que antifraude de banco pode plantar impressao digital e hackear cameras para crear um alibi perfecto?"
+    },
+    {
+      "id": 50,
+      "title": "A Ultima Mensagem de Deus",
+      "theme": "MISTERIO",
+      "level": "EXTREMO",
+      "tags": ["MENSAGEM", "DEUS", "FENOMENO", "JUATUBA"],
+      "location": "Juatuba, MG — 2018",
+      "synopsis": "Uma mensagem apareceu em 47 телевизоров de uma pequena cidade no interior de Minas Gerais ao mesmo tempo: 'EU ESTOU AQUI'. A mensagem durou 7 segundos em cada tela. Ninguem conseguio explicar a origem — nem a companhia de energia, nem os provedores de internet, nem fabricantes de TV. 47 familias Differentis foram afetadas. Tres semanas depois, umfarmaceutico da cidade foi encontrado morto. Sua esposa declarou que ele estava 'muito perto da verdade'. Os телевизоры eram todos da mesma marca — uma empresa que nao existe mais.",
+      "clues": [
+        "Os телевизоры eram todos do modelo 'Brastronic 2000', produzido em 1985 e descontinuado",
+        "A mensagem 'EU ESTOU AQUI' corresponde a uma frase escrita no livro deGenesis",
+        "O farmaceutico estava desenvolvendo um Medicamente que alterava a percepcao da realidade",
+        "47 e um numero sagrada em várias tradicoes religiosas — corresponde aos 47 libros da B blia catolica",
+        "A empresa Brastronic era propiedadede um cientista que estudava fenomenos eletromagnticos"
+      ],
+      "suspects": [
+        {"name": "Dr. Rubens (Farmaceutico)", "motive": "Estava perto de descobert a que poderia afetar diretamente a mensagem na TV"},
+        {"name": "O Cientista da Brastronic", "motive": "Deixou um dispositivo magnetico nos телевизоры que ativa sob certas condicoes"},
+        {"name": "A Entidade da Mensagem", "motive": "A mensagem nao veio de nenhum dispositivo — veio de algo que habita as ondas eletromagneticas"}
+      ],
+      "solution": "DR. RUBENS e o centro da verdade. O cientista da Brastronic descobriu que as ondas eletromagneticas tem uma 'memoria' — e que certas combinaes de frequencia podem fazer com que essa memoria seja 'lida'. Os телевизоры Brastronic tem um chip que, sob a influencia de uma frequencia especica, retransmite essa memoria. Rubens estava desarrollando um farmaco que alterava a percepcao — especificamente, permitia que as pessoas vissem essa memoria eletromagnetica. Quando percebeu que a mensagem 'EU ESTOU AQUI' era a propria memoria do Big Bang gravada nas ondas, ele tentou avisar as autoridades. Foi eliminado pela mesma forca que liberou a mensagem. As 47 familias foram selecionadas porque representam os 47 livros biblicos — a mensagem era um teste.",
+      "answer_hint": "Que farmaceutico estava desarrollando um Medicamente que altera a percepcao da realidade?"
+    }
+  ]
+}

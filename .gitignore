@@ -1,0 +1,10 @@
+# Keep the PDF out of the repo (too large, deliverable via Kiwify)
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc

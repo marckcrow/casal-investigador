@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Obrigado! — Casal Investigador</title>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,700;1,400&family=Special+Elite&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0a0a0a; --bg2: #111111; --red: #c41e3a;
+      --gold: #c9a84c; --text: #e8e0d0; --text-dim: #8a8070; --border: #2a2a2a;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: var(--bg); color: var(--text); font-family: 'Crimson Pro', serif;
+           display: flex; flex-direction: column; align-items: center; justify-content: center;
+           min-height: 100vh; padding: 24px; text-align: center; }
+    .check { font-size: 5rem; margin-bottom: 24px; }
+    h1 { font-family: 'Special Elite', monospace; font-size: clamp(1.8rem, 5vw, 3rem);
+         color: var(--gold); letter-spacing: 3px; margin-bottom: 16px; }
+    .subtitle { font-size: 1.1rem; color: var(--text-dim); font-style: italic;
+                max-width: 480px; line-height: 1.6; margin-bottom: 32px; }
+    .access { background: var(--bg2); border: 1px solid var(--gold); border-radius: 8px;
+              padding: 32px 40px; max-width: 500px; width: 100%; margin-bottom: 24px; }
+    .access h2 { font-family: 'Special Elite', monospace; font-size: 1.1rem;
+                 color: var(--gold); margin-bottom: 16px; letter-spacing: 1px; }
+    .access p { font-size: 0.95rem; color: var(--text-dim); margin-bottom: 12px; line-height: 1.5; }
+    .access a { display: inline-block; background: var(--red); color: #fff; padding: 14px 32px;
+                font-family: 'Special Elite', monospace; font-size: 1rem; letter-spacing: 1px;
+                text-decoration: none; border-radius: 4px; margin-top: 8px;
+                box-shadow: 0 4px 20px rgba(196,30,58,0.4); transition: all 0.2s; }
+    .access a:hover { background: #e02244; transform: translateY(-2px); }
+    .note { font-size: 0.8rem; color: var(--text-dim); margin-bottom: 24px; }
+    .note span { color: var(--gold); }
+    footer { font-size: 0.75rem; color: #444; margin-top: 32px; }
+  </style>
+</head>
+<body>
+
+  <div class="check">&#10004;</div>
+  <h1>CASO RESOLVIDO!</h1>
+  <p class="subtitle">
+    Sua inscricao foi confirmada. Bem-vindo ao time de investigadores!
+    Abra o dossiê e comece a desvendar os casos agora.
+  </p>
+
+  <div class="access">
+    <h2>SEU ACESSO ESTA DISPONIVEL</h2>
+    <p>Clique abaixo para fazer o download do Kit Completo:</p>
+    <p><strong style="color:var(--gold)">Casal Investigador — 100 Casos para Desvendar</strong></p>
+    <!-- KIWIFY_DOWNLOAD_LINK: Substitua pelo link real -->
+    <a href="#" id="downloadBtn">BAIXAR KIT COMPLETO</a>
+    <p style="margin-top:12px; font-size:0.8rem;">PDF + Bonus + Atualizacoes Vitalicias</p>
+  </div>
+
+  <p class="note">
+    <span>Importante:</span> O arquivo pode demorar alguns segundos para baixar.
+    Se o download nao iniciar, <a href="#" id="retryBtn" style="color:var(--gold)">clique aqui</a>.
+  </p>
+
+  <p class="note">
+    O link de acesso foi enviado para seu email.<br/>
+    Dúvidas? Entre em contato com nosso suporte.
+  </p>
+
+  <footer>
+    Casal Investigador © 2026 · Todos os direitos reservados
+  </footer>
+
+  <script>
+    // KIWIFY: Substitua KIWIFY_PRODUCT_ID pelo ID do seu produto na Kiwify
+    var KIWIFY_PRODUCT_ID = 'SEU_PRODUCT_ID_AQUI';
+    var KIWIFY_LINK = 'https://pay.kiwify.com.br/' + KIWIFY_PRODUCT_ID;
+
+    var downloadBtn = document.getElementById('downloadBtn');
+    var retryBtn = document.getElementById('retryBtn');
+
+    function openDownload() {
+      // Abre o link Kiwify para download
+      window.open(KIWIFY_LINK, '_blank');
+    }
+
+    downloadBtn.addEventListener('click', function(e) {
+      e.preventDefault();
+      openDownload();
+    });
+    retryBtn.addEventListener('click', function(e) {
+      e.preventDefault();
+      openDownload();
+    });
+
+    // Auto-open after 2 seconds
+    setTimeout(openDownload, 2000);
+  </script>
+
+</body>
+</html>

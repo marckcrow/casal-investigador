@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Casal Investigador — 50 Casos para Desvendar</title>
+  <meta name="description" content="A experiência investigativa definitiva para casais. 50 casos criminais reais, mistérios sobrenaturais e enigmas ocultos. Desvende juntos." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,700;1,400&family=Special+Elite&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0a0a0a;
+      --bg2: #111111;
+      --red: #c41e3a;
+      --gold: #c9a84c;
+      --gold-light: #e8c96a;
+      --text: #e8e0d0;
+      --text-dim: #8a8070;
+      --border: #2a2a2a;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Crimson Pro', Georgia, serif;
+      overflow-x: hidden;
+    }
+
+    /* ─── NAV ─── */
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 16px 40px;
+      background: rgba(10,10,10,0.92);
+      border-bottom: 1px solid var(--border);
+      backdrop-filter: blur(8px);
+    }
+    nav .logo {
+      font-family: 'Special Elite', monospace;
+      font-size: 1.1rem;
+      color: var(--gold);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+    nav .badge {
+      background: var(--red);
+      color: #fff;
+      font-size: 0.7rem;
+      padding: 3px 10px;
+      border-radius: 20px;
+      font-family: sans-serif;
+      letter-spacing: 1px;
+    }
+
+    /* ─── HERO ─── */
+    .hero {
+      min-height: 100vh;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      text-align: center;
+      padding: 120px 24px 80px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: radial-gradient(ellipse at 50% 60%, rgba(196,30,58,0.15) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-icon {
+      font-size: 4rem;
+      margin-bottom: 24px;
+      filter: drop-shadow(0 0 20px rgba(196,30,58,0.5));
+    }
+    .hero h1 {
+      font-family: 'Special Elite', monospace;
+      font-size: clamp(2.2rem, 6vw, 4.5rem);
+      color: var(--gold);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      line-height: 1.1;
+      margin-bottom: 16px;
+      text-shadow: 0 0 40px rgba(201,168,76,0.3);
+    }
+    .hero .subtitle {
+      font-size: clamp(1rem, 2.5vw, 1.4rem);
+      color: var(--text-dim);
+      font-style: italic;
+      max-width: 600px;
+      margin-bottom: 32px;
+    }
+    .hero .stats {
+      display: flex; gap: 40px; margin-bottom: 48px; flex-wrap: wrap; justify-content: center;
+    }
+    .hero .stat {
+      text-align: center;
+    }
+    .hero .stat .num {
+      display: block;
+      font-family: 'Special Elite', monospace;
+      font-size: 2.5rem;
+      color: var(--gold);
+    }
+    .hero .stat .label {
+      font-size: 0.85rem;
+      color: var(--text-dim);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    .cta-group {
+      display: flex; flex-direction: column; align-items: center; gap: 12px;
+    }
+    .cta-btn {
+      background: var(--red);
+      color: #fff;
+      border: none;
+      padding: 18px 48px;
+      font-size: 1.15rem;
+      font-family: 'Special Elite', monospace;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      cursor: pointer;
+      border-radius: 4px;
+      text-decoration: none;
+      transition: all 0.2s;
+      display: inline-block;
+      box-shadow: 0 4px 24px rgba(196,30,58,0.4);
+    }
+    .cta-btn:hover {
+      background: #e02244;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 32px rgba(196,30,58,0.6);
+    }
+    .cta-note {
+      font-size: 0.8rem;
+      color: var(--text-dim);
+    }
+    .cta-note span { color: var(--gold); }
+
+    /* ─── CRIME BOARD ─── */
+    .crime-board {
+      background: var(--bg2);
+      padding: 100px 24px;
+      position: relative;
+    }
+    .crime-board::before {
+      content: 'CASOS CLASSIFICADOS';
+      position: absolute; top: 28px; left: 50%;
+      transform: translateX(-50%);
+      font-family: 'Special Elite', monospace;
+      font-size: 0.7rem;
+      color: var(--text-dim);
+      letter-spacing: 4px;
+      text-transform: uppercase;
+    }
+    .board-title {
+      text-align: center;
+      font-family: 'Special Elite', monospace;
+      font-size: clamp(1.5rem, 4vw, 2.5rem);
+      color: var(--text);
+      letter-spacing: 4px;
+      margin-bottom: 16px;
+    }
+    .board-sub {
+      text-align: center;
+      color: var(--text-dim);
+      font-style: italic;
+      margin-bottom: 56px;
+      font-size: 1.1rem;
+    }
+    .cases-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    .case-card {
+      background: #0d0d0d;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
+      position: relative;
+      transition: transform 0.2s, border-color 0.2s;
+      cursor: pointer;
+    }
+    .case-card:hover {
+      transform: translateY(-4px);
+      border-color: var(--gold);
+    }
+    .case-card .card-img {
+      width: 100%;
+      height: 160px;
+      object-fit: cover;
+      filter: grayscale(40%) contrast(1.1);
+      transition: filter 0.3s;
+    }
+    .case-card:hover .card-img { filter: grayscale(0%) contrast(1); }
+    .case-card .card-body { padding: 16px; }
+    .case-card .theme-badge {
+      display: inline-block;
+      font-size: 0.6rem;
+      font-family: sans-serif;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 3px 8px;
+      border-radius: 2px;
+      margin-bottom: 8px;
+    }
+    .theme-CRIME { background: #8b0000; color: #fff; }
+    .theme-HORROR { background: #2d0a4e; color: #e0c0ff; }
+    .theme-OCULTISMO { background: #1a3a0a; color: #c0e080; }
+    .theme-MISTÉRIO { background: #003366; color: #a0d0ff; }
+    .theme-SUSPENSE { background: #4a3000; color: #ffd080; }
+    .case-card h3 {
+      font-family: 'Special Elite', monospace;
+      font-size: 0.95rem;
+      color: var(--text);
+      margin-bottom: 8px;
+      line-height: 1.3;
+    }
+    .case-card .meta {
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      font-style: italic;
+      margin-bottom: 8px;
+    }
+    .case-card .tags { display: flex; flex-wrap: wrap; gap: 4px; }
+    .case-card .tag {
+      font-size: 0.6rem;
+      font-family: monospace;
+      background: var(--border);
+      color: var(--text-dim);
+      padding: 2px 6px;
+      border-radius: 2px;
+    }
+    .case-card .level {
+      position: absolute; top: 10px; right: 10px;
+      font-size: 0.6rem;
+      font-family: sans-serif;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      background: rgba(0,0,0,0.85);
+      color: var(--gold);
+      padding: 3px 8px;
+      border-radius: 2px;
+      border: 1px solid var(--gold);
+    }
+    .classified-stamp {
+      position: absolute; top: 10px; left: 10px;
+      font-family: 'Special Elite', monospace;
+      font-size: 0.55rem;
+      color: var(--red);
+      border: 1px solid var(--red);
+      padding: 2px 6px;
+      letter-spacing: 2px;
+      background: rgba(0,0,0,0.8);
+    }
+
+    /* ─── HOW IT WORKS ─── */
+    .how-section {
+      padding: 100px 24px;
+      text-align: center;
+    }
+    .how-section h2 {
+      font-family: 'Special Elite', monospace;
+      font-size: clamp(1.4rem, 3.5vw, 2.2rem);
+      color: var(--gold);
+      letter-spacing: 3px;
+      margin-bottom: 48px;
+    }
+    .steps {
+      display: flex; flex-wrap: wrap; justify-content: center; gap: 32px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .step {
+      flex: 1;
+      min-width: 200px;
+      max-width: 260px;
+    }
+    .step-num {
+      font-family: 'Special Elite', monospace;
+      font-size: 3rem;
+      color: var(--red);
+      opacity: 0.7;
+      display: block;
+      margin-bottom: 8px;
+    }
+    .step h4 {
+      font-family: 'Special Elite', monospace;
+      font-size: 1rem;
+      color: var(--text);
+      margin-bottom: 8px;
+      letter-spacing: 1px;
+    }
+    .step p {
+      font-size: 0.9rem;
+      color: var(--text-dim);
+      line-height: 1.5;
+    }
+
+    /* ─── PRICING ─── */
+    .pricing-section {
+      background: var(--bg2);
+      padding: 100px 24px;
+      text-align: center;
+    }
+    .pricing-section h2 {
+      font-family: 'Special Elite', monospace;
+      font-size: clamp(1.4rem, 3.5vw, 2.2rem);
+      color: var(--gold);
+      letter-spacing: 3px;
+      margin-bottom: 12px;
+    }
+    .pricing-section .sub { color: var(--text-dim); font-style: italic; margin-bottom: 40px; }
+    .price-card {
+      background: #0d0d0d;
+      border: 2px solid var(--gold);
+      border-radius: 8px;
+      padding: 48px 32px;
+      max-width: 460px;
+      margin: 0 auto;
+      position: relative;
+    }
+    .price-card .tag-popular {
+      position: absolute; top: -14px; left: 50%;
+      transform: translateX(-50%);
+      background: var(--red);
+      color: #fff;
+      font-size: 0.7rem;
+      font-family: sans-serif;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 4px 16px;
+      border-radius: 20px;
+    }
+    .price-card .includes {
+      list-style: none;
+      text-align: left;
+      margin: 24px 0;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .price-card .includes li {
+      font-size: 0.95rem;
+      color: var(--text);
+      padding-left: 28px;
+      position: relative;
+    }
+    .price-card .includes li::before {
+      content: '✓';
+      position: absolute; left: 0;
+      color: var(--gold);
+      font-weight: 700;
+    }
+    .price-tag {
+      font-family: 'Special Elite', monospace;
+      font-size: 3rem;
+      color: var(--gold);
+      margin: 16px 0;
+    }
+    .price-tag small {
+      font-size: 1rem;
+      color: var(--text-dim);
+      display: block;
+      font-family: 'Crimson Pro', serif;
+      margin-top: 4px;
+    }
+
+    /* ─── TESTIMONIALS ─── */
+    .testimonials { padding: 80px 24px; text-align: center; }
+    .testimonials h2 {
+      font-family: 'Special Elite', monospace;
+      font-size: clamp(1.2rem, 3vw, 1.8rem);
+      color: var(--gold);
+      letter-spacing: 3px;
+      margin-bottom: 40px;
+    }
+    .test-grid {
+      display: flex; flex-wrap: wrap; justify-content: center; gap: 24px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .test-item {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 24px;
+      flex: 1;
+      min-width: 240px;
+      max-width: 280px;
+      text-align: left;
+    }
+    .test-item .stars { color: var(--gold); margin-bottom: 8px; font-size: 0.9rem; }
+    .test-item p { font-style: italic; color: var(--text); font-size: 0.9rem; line-height: 1.5; margin-bottom: 12px; }
+    .test-item .author { font-size: 0.8rem; color: var(--text-dim); }
+
+    /* ─── FINAL CTA ─── */
+    .final-cta {
+      padding: 100px 24px;
+      text-align: center;
+      position: relative;
+    }
+    .final-cta::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: radial-gradient(ellipse at 50% 50%, rgba(196,30,58,0.12) 0%, transparent 70%);
+    }
+    .final-cta h2 {
+      font-family: 'Special Elite', monospace;
+      font-size: clamp(1.6rem, 4vw, 2.8rem);
+      color: var(--gold);
+      letter-spacing: 3px;
+      margin-bottom: 16px;
+      position: relative;
+    }
+    .final-cta p {
+      color: var(--text-dim);
+      font-style: italic;
+      font-size: 1.1rem;
+      max-width: 500px;
+      margin: 0 auto 40px;
+      position: relative;
+    }
+
+    /* ─── FOOTER ─── */
+    footer {
+      background: #050505;
+      border-top: 1px solid var(--border);
+      padding: 32px 24px;
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--text-dim);
+    }
+    footer a { color: var(--gold); text-decoration: none; }
+
+    /* ─── ANIMATIONS ─── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .hero > * { animation: fadeUp 0.8s ease both; }
+    .hero > *:nth-child(1) { animation-delay: 0.1s; }
+    .hero > *:nth-child(2) { animation-delay: 0.2s; }
+    .hero > *:nth-child(3) { animation-delay: 0.3s; }
+    .hero > *:nth-child(4) { animation-delay: 0.4s; }
+    .hero > *:nth-child(5) { animation-delay: 0.5s; }
+    .hero > *:nth-child(6) { animation-delay: 0.6s; }
+    @keyframes pulse {
+      0%, 100% { box-shadow: 0 4px 24px rgba(196,30,58,0.4); }
+      50% { box-shadow: 0 4px 40px rgba(196,30,58,0.8); }
+    }
+    .cta-btn { animation: pulse 2.5s infinite; }
+    .cta-btn:hover { animation: none; }
+  </style>
+</head>
+<body>
+
+  <!-- ─── NAV ─── -->
+  <nav>
+    <div class="logo">🔍 Casal Investigador</div>
+    <div class="badge">50 CASOS</div>
+  </nav>
+
+  <!-- ─── HERO ─── -->
+  <section class="hero">
+    <div class="hero-icon">🕵️</div>
+    <h1>Casal Investigador</h1>
+    <p class="subtitle">A experiência investigativa definitiva para casais. Desvende crimes reais, mistérios sobrenaturais e enigmas ocultos — juntos.</p>
+    <div class="stats">
+      <div class="stat">
+        <span class="num">50</span>
+        <span class="label">Casos Reais</span>
+      </div>
+      <div class="stat">
+        <span class="num">5</span>
+        <span class="label">Categorias</span>
+      </div>
+      <div class="stat">
+        <span class="num">3</span>
+        <span class="label">Níveis</span>
+      </div>
+      <div class="stat">
+        <span class="num">∞</span>
+        <span class="label">Diversão</span>
+      </div>
+    </div>
+    <div class="cta-group">
+      <a href="#cases" class="cta-btn">🔍 VER OS CASOS</a>
+      <p class="cta-note"><span>Acesso imediato</span> · Download em PDF · Uso Vitalício</p>
+    </div>
+  </section>
+
+  <!-- ─── CRIME BOARD ─── -->
+  <section class="crime-board" id="cases">
+    <h2 class="board-title">📁 DOSSIÊS CLASSIFICADOS</h2>
+    <p class="board-sub">Escolha um caso. Abra o dossiê. Encontre a verdade.</p>
+    <div class="cases-grid" id="casesGrid"></div>
+  </section>
+
+  <!-- ─── HOW IT WORKS ─── -->
+  <section class="how-section">
+    <h2>⚡ Como Funciona</h2>
+    <div class="steps">
+      <div class="step">
+        <span class="step-num">01</span>
+        <h4>Escolha o Caso</h4>
+        <p>Selecione um dossiê por categoria e nível de dificuldade.</p>
+      </div>
+      <div class="step">
+        <span class="step-num">02</span>
+        <h4>Analise as Pistas</h4>
+        <p>Leia as evidências, interrogue suspeitos e estude as dicas.</p>
+      </div>
+      <div class="step">
+        <span class="step-num">03</span>
+        <h4>Desvende o Caso</h4>
+        <p>Formule sua teoria e revele a solução no final do dossiê.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── PRICING ─── -->
+  <section class="pricing-section" id="price">
+    <h2>📦 O QUE VOCÊ VAI RECEBER</h2>
+    <p class="sub">Tudo que você precisa para virar um detetive com seu par</p>
+    <div class="price-card">
+      <div class="tag-popular">ACESSO IMEDIATO</div>
+      <h3 style="font-family:'Special Elite',monospace; font-size:1.3rem; color:var(--text); margin-bottom:8px;">Kit Casal Investigador</h3>
+      <div class="price-tag">R$ 37 <small>ou 12x de R$ 3,70</small></div>
+      <ul class="includes">
+        <li>100 Dossiês Completos em PDF</li>
+        <li>Cartões de Suspeitos para Imprimir</li>
+        <li>Grade de Evidências para Preencher</li>
+        <li>Respostas com Explicação Completa</li>
+        <li>5 Casos Bônus Temáticos</li>
+        <li>Atualizações Vitalícias Gratuitas</li>
+      </ul>
+      <a href="#" class="cta-btn" id="ctaBtn">🔍 ASSUMIR O CASO AGORA</a>
+      <p class="cta-note" style="margin-top:12px;"><span>Compra 100% segura</span> · Kiwify · Acesso em até 5 min</p>
+    </div>
+  </section>
+
+  <!-- ─── TESTIMONIALS ─── -->
+  <section class="testimonials">
+    <h2>⭐ O QUE OS DETETIVES DIZEM</h2>
+    <div class="test-grid">
+      <div class="test-item">
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+        <p>"A melhor atividade que fizemos juntos em meses! Os casos são viciantes e nos fez conversar durante dias."</p>
+        <div class="author">— Priscila & Rafael, São Paulo</div>
+      </div>
+      <div class="test-item">
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+        <p>"Sou muito fã de true crime e agora faço isso com minha esposa. Cada caso é uma experiência diferente."</p>
+        <div class="author">— Thiago & Carol, Curitiba</div>
+      </div>
+      <div class="test-item">
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+        <p>"Compramos para o Dia dos Namorados. Agora é um ritual todo fim de semana. ABSOLUTAMENTE INDISPENSÁVEL."</p>
+        <div class="author">— Fernando & Marina, Rio de Janeiro</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── FINAL CTA ─── -->
+  <section class="final-cta">
+    <h2>🕵️ Todo mundo acha que seria um bom detetive.<br>Hora de provar.</h2>
+    <p>50 casos criminais reais. Desligue a rotina. Abra o dossiê. Hoje você é o detetive.</p>
+    <a href="#cases" class="cta-btn">🔍 ASSUMIR O CASO AGORA</a>
+  </section>
+
+  <!-- ─── FOOTER ─── -->
+  <footer>
+    <p>Casal Investigador © 2026 · Todos os direitos reservados</p>
+    <p style="margin-top:4px;">Este produto é de uso pessoal. Proibida reprodução comercial.</p>
+    <p style="margin-top:8px;"><a href="#">Termos de Uso</a> · <a href="#">Política de Privacidade</a> · <a href="#">Contato</a></p>
+  </footer>
+
+  <script>
+    const CASES = [
+      { id: 1, title: "O Homicídio da Rua das Flores", theme: "CRIME", level: "DIFÍCIL", tags: ["HOMICÍDIO","POLÍCIA","BAIRRO"], img: "https://picsum.photos/seed/case1/400/220" },
+      { id: 2, title: "A Casa Mal-Assombrada de Paraisópolis", theme: "HORROR", level: "EXTREMO", tags: ["MALDIÇÃO","SOBRENATURAL","INTERIOR"], img: "https://picsum.photos/seed/case2/400/220" },
+      { id: 3, title: "O Enigma do Tarot", theme: "OCULTISMO", level: "MÉDIO", tags: ["TAROT","ENIGMA","RITUAL"], img: "https://picsum.photos/seed/case3/400/220" },
+      { id: 4, title: "O Voo 357 — Mistério Aéreo Brasileiro", theme: "MISTÉRIO", level: "EXTREMO", tags: ["AERONÁUTICA","GOVERNO","SUMIÇO"], img: "https://picsum.photos/seed/case4/400/220" },
+      { id: 5, title: "A Clínica Secreta", theme: "CRIME", level: "DIFÍCIL", tags: ["TRÁFICO","CLÍNICA","SAÚDE"], img: "https://picsum.photos/seed/case5/400/220" },
+      { id: 6, title: "A Noite do Manicômio", theme: "HORROR", level: "EXTREMO", tags: ["PSIQUIATRIA","INSTITUIÇÃO","BRASILEIRO"], img: "https://picsum.photos/seed/case6/400/220" },
+      { id: 7, title: "O Caso Chica Xavier", theme: "MISTÉRIO", level: "MÉDIO", tags: ["CELEBRIDADE","BRASILEIRO","TRADIÇÃO"], img: "https://picsum.photos/seed/case7/400/220" },
+      { id: 8, title: "O Jogo Digital da Morte", theme: "SUSPENSE", level: "EXTREMO", tags: ["DIGITAL","CRIME","GAME"], img: "https://picsum.photos/seed/case8/400/220" },
+      { id: 9, title: "A Última Sessão Espírita", theme: "OCULTISMO", level: "DIFÍCIL", tags: ["ESPIRITISMO","MANSÃO","RITUAL"], img: "https://picsum.photos/seed/case9/400/220" },
+      { id: 10, title: "O Circo do Abominável", theme: "SUSPENSE", level: "MÉDIO", tags: ["CIRCO","TRAGÉDIA","SHOW"], img: "https://picsum.photos/seed/case10/400/220" },
+    ];
+
+    const THEMES = {
+      "CRIME": "CRIME",
+      "HORROR": "HORROR",
+      "OCULTISMO": "OCULTISMO",
+      "MISTÉRIO": "MISTÉRIO",
+      "SUSPENSE": "SUSPENSE"
+    };
+
+    const grid = document.getElementById('casesGrid');
+    CASES.forEach(c => {
+      const themeClass = 'theme-' + c.theme;
+      grid.innerHTML += `
+        <div class="case-card" onclick="openCase(${c.id})">
+          <div class="classified-stamp">CONFIDENCIAL</div>
+          <div class="level">${c.level}</div>
+          <img class="card-img" src="${c.img}" alt="${c.title}" loading="lazy" />
+          <div class="card-body">
+            <span class="theme-badge ${themeClass}">${c.theme}</span>
+            <h3>${c.title}</h3>
+            <p class="meta">📍 Brasil</p>
+            <div class="tags">${c.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>
+          </div>
+        </div>
+      `;
+    });
+
+    function openCase(id) {
+      const c = CASES.find(x => x.id === id);
+      const modal = document.createElement('div');
+      modal.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.92);z-index:200;display:flex;align-items:center;justify-content:center;padding:24px;';
+      modal.innerHTML = `
+        <div style="background:#111;border:1px solid #c9a84c;border-radius:8px;max-width:560px;width:100%;padding:40px;position:relative;text-align:center;">
+          <button onclick="this.closest('[style]').remove()" style="position:absolute;top:12px;right:16px;background:none;border:none;color:#888;font-size:1.5rem;cursor:pointer;">✕</button>
+          <div style="font-size:3rem;margin-bottom:16px;">🔍</div>
+          <span class="theme-badge theme-${c.theme}" style="display:inline-block;margin-bottom:12px;">${c.theme}</span>
+          <h2 style="font-family:'Special Elite',monospace;color:#c9a84c;font-size:1.4rem;margin-bottom:16px;line-height:1.3;">${c.title}</h2>
+          <p style="color:#8a8070;font-style:italic;margin-bottom:24px;font-size:0.95rem;">Este é apenas 1 dos 50 casos. O dossiê completo inclui todas as pistas, suspeitos e a solução!</p>
+          <a href="#price" onclick="document.querySelector('[style*=\\\'position:fixed\\\']').remove()" class="cta-btn" style="font-size:1rem;padding:14px 32px;">QUERO O KIT COMPLETO</a>
+        </div>
+      `;
+      document.body.appendChild(modal);
+      modal.addEventListener('click', e => { if (e.target === modal) modal.remove(); });
+    }
+
+    // CTA buttons go to Kiwify
+    document.querySelectorAll('.cta-btn').forEach(btn => {
+      if (btn.id !== 'ctaBtn') {
+        btn.addEventListener('click', e => {
+          e.preventDefault();
+          document.getElementById('price').scrollIntoView({ behavior: 'smooth' });
+        });
+      }
+    });
+  </script>
+</body>
+</html>
